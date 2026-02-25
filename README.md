@@ -1,6 +1,6 @@
 # phd-internship-campaign
 
-A systematic, AI-assisted internship application toolkit for STEM PhD students. Not a job board list. A complete research + application generation system — built by a first-year PhD student (materials science, CU Boulder) using Claude Code and parallel AI agents.
+A systematic, AI-assisted internship application toolkit for STEM PhD students. Not a job board list. A complete research + application generation system — built by a second-year PhD student (materials science, CU Boulder) using Claude Code and parallel AI agents.
 
 **What was built in a single session:**
 - 130+ companies researched across 12 sectors
