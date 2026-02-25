@@ -1,129 +1,137 @@
 # phd-internship-campaign
 
-A systematic, AI-assisted internship application toolkit for STEM PhD students. Not a job board list. A complete research + application generation system — built by a second-year PhD student (materials science, CU Boulder) using Claude Code and parallel AI agents.
-
-**What was built in a single session:**
-- 130+ companies researched across 12 sectors
-- 70+ complete application packages generated (cover letter + form fields + checklist)
-- 74 tracked opportunities with status and scoring
-- Research that would have taken weeks of manual effort, done in hours
+> Built by [Sean Florez](https://seanflorez.com) — PhD student, Materials Science & Engineering, CU Boulder.
+> [Twitter](https://x.com/seanf1orez) · [LinkedIn](https://linkedin.com/in/sean-florez) · [GitHub](https://github.com/fl-sean03)
 
 ---
 
-## What's in This Repo
+I'm a second-year materials science PhD student. The standard advice for finding a summer internship is: update your LinkedIn, go to career fairs, apply to a few places, hope.
 
-### `research/`
-Sector-by-sector company intelligence for 130+ targets. Each file covers a specific sector: who the players are, what technical work they do, what they actually hire PhD interns for, and which programs are worth targeting. Written at the level of someone who read the company's published work — not scraped from LinkedIn.
+I decided to build a systematic campaign instead.
 
-Sectors covered:
-- National laboratories (DOE complex)
-- Defense primes (Lockheed, RTX, Northrop, L3Harris, General Dynamics)
-- FFRDCs (MITRE, Aerospace Corp, IDA, RAND, Lincoln Lab)
-- Nuclear companies (Kairos, X-energy, TerraPower, Oklo, Westinghouse)
-- Hard tech startups (AFRL-adjacent, SBIR-funded)
-- Composites and aerostructures
-- Semiconductor fabs and materials
-- Energy materials (batteries, fuel cells, hydrogen)
-- Space and launch
-- Government agencies (AFRL, ARL, NRL, NIST)
-- DOD program offices
-- Consulting and government services
+In one session, using parallel AI agents running across every sector I'd ever want to work in, I generated:
 
-### `templates/`
-Fill-in-the-blank application packages. Each template is structured as one directory per opportunity with two files:
-- `STATUS.md` — company research summary, role analysis, fit table, deadline, pay
-- `APPLICATION.md` — cover letter (three paragraphs, role-specific structure), pre-filled form fields, resume selection guidance, submission checklist
+- **130+ companies researched** across 12 sectors (national labs, defense primes, nuclear, hard tech, composites, semiconductor, energy materials, and more)
+- **70+ complete application packages** — each with a tailored cover letter, pre-filled form fields, and a submission checklist
+- **74 tracked opportunities** scored and tiered by fit, with confirmed URLs, deadlines, and pay
+- Research that would have taken weeks done in hours
 
-### `prompts/`
-The actual AI prompts used to generate research and application packages. Use these to run your own pipeline against your own background. Includes:
-- `sector_research.md` — prompt for deep company research by sector
-- `application_package.md` — prompt for generating a complete application package given company + role + your positioning doc
-- `cold_email.md` — prompt for cold outreach to companies without open postings
-- `scoring.md` — prompt for evaluating and scoring fit before investing effort
+This repo is the public version of that system — stripped of my personal details, generalized into templates and prompts, and documented so anyone can run the same pipeline for their own background.
 
-### `MASTER_LIST.md`
-The scored opportunity database. 74 entries with company, role, sector, fit score (0-100), deadline, status, and application type (ATS vs. email vs. Zintellect). Sortable by score, sector, or deadline. Start here to prioritize.
+---
 
-### `METHODOLOGY.md`
-The full process: candidate positioning, sector identification, opportunity scoring, AI pipeline architecture, submission prioritization, and cold outreach. Read this before using anything else.
+## What's in the Repo
 
-### `POSITIONING_TEMPLATE.md`
-A structured template for defining yourself as a candidate. Technical stack, key findings with numbers, differentiators, honest gaps, and the "trade" you're offering each type of employer. Fill this out first — everything else depends on it.
+```
+phd-internship-campaign/
+├── README.md                    ← you are here
+├── METHODOLOGY.md               ← the full process, start to finish
+├── MASTER_LIST.md               ← 130+ scored opportunities by sector and tier
+├── POSITIONING_TEMPLATE.md      ← fill this in first, everything else reads it
+├── COVER_LETTER_PRINCIPLES.md   ← what actually works for PhD→industry letters
+│
+├── research/                    ← deep company research, 12 sectors
+│   ├── national-labs.md
+│   ├── defense-energetics.md
+│   ├── defense-fellowships.md
+│   ├── nuclear.md
+│   ├── ffrdc.md
+│   ├── hardtech.md
+│   ├── vc-portfolio.md
+│   ├── composites.md
+│   ├── hypersonics-propulsion.md
+│   ├── energy-materials.md
+│   ├── semiconductor-quantum.md
+│   └── science-ai-materials.md
+│
+├── templates/                   ← fill-in-the-blank application packages
+│   ├── STATUS_TEMPLATE.md
+│   ├── APPLICATION_TEMPLATE.md
+│   └── OUTREACH_TEMPLATE.md
+│
+└── prompts/                     ← AI prompts to run your own pipeline
+    ├── README.md
+    ├── positioning.md
+    ├── sector_research.md
+    ├── application_package.md
+    └── master_list_synthesis.md
+```
 
-### `COVER_LETTER_PRINCIPLES.md`
-Practical principles for cover letters and cold emails in this specific context: STEM PhD students applying to defense, national lab, and hard tech roles. Not generic advice.
+---
+
+## How It Works
+
+The system has three layers:
+
+**1. Positioning.** Before writing a single cover letter, you define yourself precisely as a candidate. Technical stack. Key findings with numbers. What you don't have and why that's the honest framing for each application. This is `POSITIONING_TEMPLATE.md` — fill it in first. Every AI agent in the pipeline reads it.
+
+**2. Sector research.** You don't start with job boards. You start with sectors — which ones use your technical background, which have programs that are legible to your experience, which have hard filters you clear or don't. The `research/` directory has done this for 12 sectors. The `prompts/sector_research.md` prompt lets you generate new sector research for your specific background.
+
+**3. Application generation.** One directory per opportunity. `STATUS.md` holds company research, role analysis, fit score, URL, deadline. `APPLICATION.md` holds the cover letter, pre-filled form fields, and submission checklist. The `prompts/application_package.md` prompt generates both files when given your positioning doc + company research + job description. Run 10 of these in parallel. That's 10 tailored packages per hour.
+
+---
+
+## Quick Start
+
+**If you want to use the research directly:**
+1. Fill in `POSITIONING_TEMPLATE.md` with your background
+2. Browse `MASTER_LIST.md` — sort by sector and score
+3. Open the relevant `research/` files
+4. Adapt `templates/APPLICATION_TEMPLATE.md` with your information
+
+**If you want to run the full AI pipeline:**
+1. Fill in `POSITIONING_TEMPLATE.md`
+2. Read `METHODOLOGY.md`
+3. Use `prompts/sector_research.md` to generate fresh research for your sectors
+4. Use `prompts/application_package.md` to generate tailored packages in parallel
 
 ---
 
 ## Who This Is For
 
-STEM PhD students (especially materials science, computational science, chemical engineering, physics) applying to summer internships at:
+STEM PhD students — especially materials science, computational science, chemical engineering, and applied physics — applying to:
 
-- **National laboratories** — ORNL, LANL, ANL, NREL, INL, PNNL, LLNL, Sandia, SLAC, BNL
-- **Defense primes** — Lockheed Martin, RTX (Pratt & Collins), Northrop Grumman, L3Harris, General Dynamics
-- **FFRDCs** — MITRE, The Aerospace Corporation, Lincoln Laboratory, IDA, RAND, CMSRC
-- **Nuclear companies** — Kairos Power, X-energy, TerraPower, Oklo, NuScale, Lightbridge, Westinghouse
-- **Hard tech startups** — SBIR-funded companies with AFRL/DARPA contracts, advanced materials startups
-- **Composites and aerostructures** — Toray, Hexcel, Spirit AeroSystems, Triumph, Albany International
-- **Semiconductor fabs and materials** — Intel, GlobalFoundries, TSMC, Applied Materials, Lam Research
-- **Energy materials** — QuantumScape, Solid Power, Bloom Energy, Plug Power, Nel Hydrogen
+- **DOE national labs** — ORNL, LANL, ANL, LLNL, INL, PNNL, NREL, Sandia, BNL
+- **Defense primes** — Lockheed Martin, RTX, Northrop Grumman, L3Harris, General Dynamics
+- **FFRDCs** — MITRE, The Aerospace Corporation, MIT Lincoln Lab
+- **Nuclear** — Kairos Power, TerraPower, X-energy, Oklo, Westinghouse, BWXT
+- **Hard tech startups** — SBIR-funded, AFRL/DARPA-adjacent, advanced materials
+- **Composites & aerostructures** — Hexcel, Spirit, Albany Engineered Composites
+- **Semiconductor & quantum** — Applied Materials, Lam Research, Quantinuum
+- **Energy materials** — Solid Power, Antora, Indium Corporation, Henkel
 
-If your research produces results that translate to engineering decisions — processing parameters, material specifications, failure mechanisms, transport properties — this toolkit was built for your application.
-
----
-
-## How to Use It
-
-### Path 1: Use the research directly
-
-You don't need to run any AI pipeline. The research is already done.
-
-1. Open `MASTER_LIST.md` and filter to your target sectors and fit scores above 70
-2. Open the relevant `research/` file for each sector you're targeting
-3. Fill in `POSITIONING_TEMPLATE.md` with your own background
-4. Adapt the `templates/` packages with your information — the structure is done, you're filling in the technical specifics
-5. Submit using the checklist in each `APPLICATION.md`
-
-This path works if your background is close enough to materials science / computational science that the sector research is directly applicable.
-
-### Path 2: Run your own AI pipeline
-
-If you're in a different subfield or want to generate fresh research for your specific background:
-
-1. Fill in `POSITIONING_TEMPLATE.md` completely
-2. Read `METHODOLOGY.md` to understand the scoring and prioritization logic
-3. Use `prompts/sector_research.md` to generate research for sectors relevant to your work
-4. Use `prompts/application_package.md` to generate application packages — provide your positioning doc + company research + specific role
-5. Run multiple agents in parallel on different sectors simultaneously (Claude Code handles this natively)
-
-The prompts are written to produce research-quality output, not generic summaries. Give them the company's actual technical work and they return application packages that name specific programs, technologies, and research areas.
+If your research produces results that translate to engineering decisions — processing parameters, material specifications, failure mechanisms — this system is calibrated for your context.
 
 ---
 
-## Quick Start (5 Steps)
+## The Core Problem This Solves
 
-1. Fill in `POSITIONING_TEMPLATE.md` with your background — technical stack, key findings with numbers, differentiators, honest gaps
-2. Read `METHODOLOGY.md` — understand the scoring system before you start applying
-3. Browse `MASTER_LIST.md` — sort by sector and score, identify your top 20 targets
-4. Open the relevant `research/` file for each target sector — read it before writing anything
-5. Use `prompts/application_package.md` to generate tailored packages with AI, or adapt `templates/` directly
+The bottleneck is not finding opportunities. Every PhD student can find a list of national labs. The bottleneck is **research depth at scale**.
+
+A real application to a national lab or defense prime requires: knowing what programs they run, understanding what technical problems they're trying to solve, connecting your specific work to their specific needs, and writing a letter that demonstrates all of that clearly. Done manually, that's 2-3 hours per application.
+
+Across 70 applications, that's months.
+
+AI handles the research and generation. You handle the positioning inputs and the final review. The output is letters that name specific programs, reference specific technical work, and make a non-generic argument for why you specifically — not any materials science PhD — fit this role.
 
 ---
 
-## The Core Insight
+## The Research
 
-The bottleneck is not finding opportunities. Every PhD student can find a list of national labs and defense primes. The bottleneck is **research depth + tailoring at scale**.
+The `research/` directory contains ~330KB of company intelligence across 12 sectors, compiled February 2026. Each file covers 10-25 companies with: what they do, what they hire PhD interns for, fit signals, application URLs and deadlines, and pay ranges.
 
-Reading a company's published work, identifying what they actually need, and writing a cover letter that demonstrates that reading — that takes 2-3 hours per application done manually. Multiplied across 70 applications, that is months of work.
+This is not scraped from LinkedIn. It's written at the level of someone who read the company's published technical work.
 
-AI solves the scale problem without sacrificing the tailoring. But only if you give it the right inputs. Generic company names produce generic letters. Specific technical context — the company's programs, their materials systems, their published challenges — produces letters that read like they came from someone who did their homework.
-
-Every application package in this repo has company-specific technical framing. "I see that your work on SiC-SiC CMC turbine components requires a joining approach that maintains fiber architecture" is not a template line. It came from reading what that company actually works on and connecting it to a specific technical background.
-
-That is what this toolkit is designed to produce at scale.
+It will go stale. URLs break, postings expire, programs change. Verify before submitting. But the company intelligence — what each organization works on, who funds them, what problems they're trying to solve — stays accurate longer than the posting links.
 
 ---
 
 ## License
 
-MIT. Use it, adapt it, share it. If you run your own campaign with this toolkit and it works, consider contributing your sector research back to the repo.
+MIT. Use it, adapt it, share it.
+
+If you run this pipeline and it works, consider opening a PR with your sector research. The more sectors covered, the more useful this becomes for PhD students in fields other than materials science.
+
+---
+
+*Questions or feedback: [Twitter](https://x.com/seanf1orez) · [sean.florez@colorado.edu](mailto:sean.florez@colorado.edu)*

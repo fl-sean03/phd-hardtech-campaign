@@ -63,7 +63,9 @@ volume.
 
 ---
 
-## How to Run in Claude Code
+## How to Run
+
+These prompts work with any LLM that supports file input and multi-turn conversation — Claude, GPT-4o, Gemini, or others with code/file access. The examples below use a CLI-based AI tool (like Claude Code), but the logic applies to any capable model.
 
 ### Single agent (one company):
 
@@ -96,10 +98,9 @@ Specific companies to include if found: Divergent Technologies, Hermeus, Relativ
 "
 ```
 
-### Using the Task tool in Claude Code for parallel execution:
+### Parallel execution (the real power):
 
-Inside a Claude Code session, you can run multiple application agents simultaneously using the
-Task tool. This is the primary power of this system.
+If your AI tool supports parallel subagents (or you open multiple terminal sessions), you can run 5-10 application packages simultaneously. This is the primary power of this system.
 
 Example — running 5 application packages in parallel:
 
@@ -151,17 +152,16 @@ equivalent of 10 separate API calls.
 
 Approximate token costs per operation:
 
-| Operation | Input tokens (est.) | Output tokens (est.) | Cost at Claude API rates |
-|-----------|--------------------|--------------------|------------------------|
+| Operation | Input tokens (est.) | Output tokens (est.) | Approx. API cost |
+|-----------|--------------------|--------------------|-----------------|
 | `sector_research.md` (10 companies) | ~8,000 | ~6,000 | ~$0.15-0.40 |
 | `application_package.md` (one role) | ~5,000 | ~4,000 | ~$0.10-0.30 |
 | 10 parallel application packages | ~50,000 | ~40,000 | ~$1.00-3.00 |
 
-*Estimates based on Claude 3.5 Sonnet/Opus pricing as of early 2026. Costs vary by model and
-change over time — check current pricing at console.anthropic.com/settings/billing.*
+*Estimates based on typical frontier model pricing as of early 2026. Costs vary by model and
+provider — check current pricing before running at scale.*
 
-If you are running Claude Code on a Max subscription (flat monthly rate), these costs are included.
-You are not paying per token — run as many agents as you want.
+If you are on a flat-rate AI subscription, these costs are included. Run as many agents as you want.
 
 ---
 

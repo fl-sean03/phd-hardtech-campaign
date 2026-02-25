@@ -1,6 +1,6 @@
 # Prompt: Master List Synthesis
 
-*Copy-paste this prompt into Claude Code (or any capable LLM with file access) to synthesize all sector research into a single prioritized master list. Run from the root of your phd-internship-campaign directory.*
+*Copy-paste this prompt into any capable LLM with file access (Claude, GPT-4o, Gemini) to synthesize all sector research into a single prioritized master list. Run from the root of your phd-internship-campaign directory.*
 
 ---
 
@@ -178,4 +178,4 @@ Before writing the file, internally verify:
 
 ---
 
-*This prompt is designed to be run with Claude Code in the root of the phd-internship-campaign directory. For best results: fill POSITIONING_TEMPLATE.md completely before running, and ensure research/ directory contains at least 5 sector research documents.*
+*This prompt is designed to be run from the root of the phd-internship-campaign directory. For best results: fill POSITIONING_TEMPLATE.md completely before running, and ensure research/ directory contains at least 5 sector research documents.*

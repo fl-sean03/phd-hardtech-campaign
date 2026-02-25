@@ -1,6 +1,6 @@
 # Prompt: Candidate Positioning Interview
 
-*Copy-paste this prompt into Claude Code (or any capable LLM) to build your POSITIONING_TEMPLATE.md through a structured interview. The agent will ask you a series of questions and then generate a completed positioning document from your answers.*
+*Copy-paste this prompt into any capable LLM (Claude, GPT-4o, Gemini) to build your POSITIONING_TEMPLATE.md through a structured interview. The agent will ask you a series of questions and then generate a completed positioning document from your answers.*
 
 ---
 

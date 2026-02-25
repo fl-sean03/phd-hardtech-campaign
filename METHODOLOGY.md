@@ -150,7 +150,7 @@ It returns a complete `STATUS.md` + `APPLICATION.md` pair. Review every output b
 
 ### Running agents in parallel
 
-Claude Code supports parallel subagents. For sector-level research, spin up 5-10 simultaneously on different sectors. For application package generation, run 3-5 in parallel on different companies within a sector.
+AI tools that support parallel agents (or simply multiple terminal sessions) let you run sector research and application package generation simultaneously. For sector-level research, spin up 5-10 agents simultaneously on different sectors. For application package generation, run 3-5 in parallel on different companies within a sector.
 
 Each agent needs:
 - Your complete positioning doc
