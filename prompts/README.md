@@ -28,6 +28,8 @@ cover letters, populating form fields, and structuring research. You review, cor
 |------|-----------------|-------------|
 | `sector_research.md` | A research doc covering 10-20 companies in a sector | Start here — run once per sector before any applications |
 | `application_package.md` | STATUS.md + APPLICATION.md for one specific role | Run once per company after you have a job posting |
+| `founder_outreach.md` | Complete outreach package (DM + email + engagement plan) for one founder/CTO | When the best path is direct — DM a founder, cold email a CTO, or pitch an informal arrangement |
+| `master_list_synthesis.md` | Updated MASTER_LIST.md from all research files | Run after adding new research files to rebuild the master list |
 
 More prompts can be added to this directory. The naming convention is `[action]_[output].md`.
 Each new prompt should follow the same structure: read POSITIONING_TEMPLATE first, verify facts,
@@ -45,16 +47,20 @@ produce structured output in the correct directory.
   → produces: research/[sector]_research.md
   → identifies: 10-20 companies, scores, apply URLs, deadlines, flags
          |
-         v
-[For each promising company, run application_package.md]
-  → produces: applications/[company]/STATUS.md
-              applications/[company]/APPLICATION.md
-         |
-         v
-[You review STATUS.md → confirm fit and flags → review APPLICATION.md → submit]
-         |
-         v
-[Log submission in tracker → set follow-up reminder]
+         ├──────────────────────────────────┐
+         v                                  v
+[For ATS-posted roles:                [For founder-direct targets:
+ run application_package.md]           run founder_outreach.md]
+  → applications/[company]/             → outreach/[company]/
+     STATUS.md + APPLICATION.md            OUTREACH_PLAN.md
+         |                                  |
+         v                                  v
+[Review → submit via ATS]            [Engage → DM/email → follow up]
+         |                                  |
+         └──────────────────────────────────┘
+                        |
+                        v
+              [Log in MASTER_LIST.md]
 ```
 
 You are doing three things in this workflow: filling in your positioning document once, reviewing
@@ -70,7 +76,7 @@ These prompts work with any LLM that supports file input and multi-turn conversa
 ### Single agent (one company):
 
 ```bash
-claude -p "$(cat /path/to/phd-internship-campaign/prompts/application_package.md)"
+claude -p "$(cat /path/to/phd-hardtech-campaign/prompts/application_package.md)"
 ```
 
 The prompt will ask you to provide the company name, role title, and job description.
@@ -107,10 +113,10 @@ Example — running 5 application packages in parallel:
 ```
 Use the Task tool to run 5 parallel sub-agents, one for each of the following companies.
 Each sub-agent should:
-1. Read ~/Workspace/phd-internship-campaign/POSITIONING_TEMPLATE.md
+1. Read ~/Workspace/phd-hardtech-campaign/POSITIONING_TEMPLATE.md
 2. Read the job description provided below for their assigned company
-3. Execute the instructions in ~/Workspace/phd-internship-campaign/prompts/application_package.md
-4. Write output to ~/Workspace/phd-internship-campaign/applications/[company_name]/
+3. Execute the instructions in ~/Workspace/phd-hardtech-campaign/prompts/application_package.md
+4. Write output to ~/Workspace/phd-hardtech-campaign/applications/[company_name]/
 
 Company assignments:
 - Sub-agent 1: [Company A] — [URL or pasted JD]
@@ -170,11 +176,14 @@ If you are on a flat-rate AI subscription, these costs are included. Run as many
 All agent-generated files go into:
 
 ```
-phd-internship-campaign/
+phd-hardtech-campaign/
   applications/
     [company-slug]/
       STATUS.md         ← research + fit analysis
       APPLICATION.md    ← cover letter + form fields + checklist
+  outreach/
+    [company-slug]/
+      OUTREACH_PLAN.md  ← DM + email + engagement plan for founder-direct targets
   research/
     [sector]_research.md  ← sector-level research doc
 ```

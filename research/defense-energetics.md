@@ -89,30 +89,31 @@
 
 ---
 
-## Mach Industries — Summer Intern 2026, Manufacturing
-- **Score estimate:** 74/100
-- **Sector:** Defense — Autonomous Weapons / Munitions Manufacturing
+## Mach Industries — Summer Intern 2026, Manufacturing / Propulsion
+- **Score estimate:** 76/100
+- **Sector:** Defense — Autonomous Weapons / Munitions Manufacturing / Propulsion
 - **Location:** Huntington Beach, CA (onsite, 12 weeks)
 - **Timing:** Summer 2026 (active, Jun 2026 start)
-- **Apply URL:** https://jobs.ashbyhq.com/mach/175b411b-061d-4f0a-9068-97597f34b55c
-- **Also consider (Propulsion track):** https://jobs.ashbyhq.com/mach/c5b3e7d4-53ec-455e-824a-84d85281b829
+- **Apply URL (Manufacturing):** https://jobs.ashbyhq.com/mach/175b411b-061d-4f0a-9068-97597f34b55c
+- **Apply URL (Propulsion):** https://jobs.ashbyhq.com/mach/c5b3e7d4-53ec-455e-824a-84d85281b829
 
-**Fit analysis:** Mach Industries builds next-generation autonomous weapons and munitions at startup speed. The Manufacturing intern owns DFM/A guide development, factory layout planning, tooling design/procurement, and mass-production ramp activities for defense hardware. This is closer to the assembly/production floor than most roles. Candidates with strong documentation systems background (built from scratch, reproducible, traceable) and AI/automation skills are unusually capable for the "authoring MES system / visual manufacturing BOM" work. The Propulsion track is an alternative and possibly even better fit — it overlaps with energetics/propellant systems. Mach is growing fast with real DoD contracts.
+**Fit analysis:** Mach Industries ($100M Series B, ~$470M valuation) builds next-generation autonomous weapons and munitions at startup speed. Founded by Ethan Thornton (dropped out of MIT at 19), the company has landed US Army contracts and is building weapons factories. The Manufacturing intern owns DFM/A guide development, factory layout planning, tooling design/procurement, and mass-production ramp activities for defense hardware. The **Propulsion track** is potentially an even stronger fit — Mach launched Mach Propulsion in March 2025, a dedicated subsidiary building jet engines for UAVs with a target of 12,000 engines annually. This division works on high-performance propulsion systems and overlaps directly with energetics/propellant systems expertise. A materials scientist who can characterize propellant performance, qualify manufacturing processes for engine components, and bridge simulation-to-production is exactly the profile a propulsion startup needs as it scales. Mach recently brought on Nathan Diller as President/CSO (Feb 2026), signaling maturation of the technical leadership. Ethan Thornton is active on social media — founder-direct engagement via X or LinkedIn is a realistic path to visibility. Mach is ITAR-controlled with real DoD contracts.
 
-**Potential gaps:** Mach's manufacturing role is framed for industrial/manufacturing engineers, not materials scientists specifically. Lead with the manufacturing-guidance translation story and position the materials depth as a superpower for process documentation. Degree requirement is "BSc or MSc in industrial, manufacturing, mechanical, or aerospace" — a PhD in materials science needs a clear pitch addressing the materials-to-manufacturing framing. No mention of clearance requirement for this specific role, though the company is ITAR-controlled. Huntington Beach is a real relocation.
+**Potential gaps:** Mach's manufacturing role is framed for industrial/manufacturing engineers, not materials scientists specifically. Lead with the manufacturing-guidance translation story and position the materials depth as a superpower for process documentation and propulsion materials qualification. Degree requirement is "BSc or MSc in industrial, manufacturing, mechanical, or aerospace" — a PhD in materials science needs a clear pitch addressing the materials-to-manufacturing framing. The propulsion track may be more receptive to a materials background. No mention of clearance requirement for this specific role, though the company is ITAR-controlled. Huntington Beach is a real relocation.
 
 ---
 
 ## Castelion — Summer 2026 Engineering Internship
-- **Score estimate:** 72/100
-- **Sector:** Defense — Hypersonic Weapons Manufacturing
-- **Location:** Torrance, CA (onsite)
+- **Score estimate:** 76/100
+- **Sector:** Defense — Hypersonic Weapons Manufacturing / SRM Production
+- **Location:** Torrance, CA (onsite); new SRM campus in Sandoval County, NM (Project Ranger)
 - **Timing:** Summer 2026 (active, $30/hr base)
 - **Apply URL:** https://www.castelion.com/careers/ (then select Summer 2026 Engineering Internship)
+- **Pay:** $30/hr base
 
-**Fit analysis:** Castelion ($350M Series B) mass-produces Blackbeard hypersonic missiles with solid rocket motors, targeting thousands of units annually. The engineering internship touches SW, GNC, propulsion, manufacturing, mechanical/structures, and avionics. Castelion is breaking ground on new manufacturing campuses for solid rocket motor production and static testing. A candidate with [your prior AFRL propulsion background], active clearance, and ability to connect simulation outputs to manufacturing guidance would stand out. The role offers experience inside a company that is literally standing up an energetics manufacturing operation in real-time.
+**Fit analysis:** Castelion closed a $350M+ Series B (Dec 2025, led by Altimeter Capital and Lightspeed) and is now one of the best-funded defense manufacturing startups in the country. The company builds Blackbeard, the first U.S. hypersonic weapon engineered from inception for industrial-rate production, targeting thousands of units annually. Castelion is breaking ground on Project Ranger — a 1,000-acre solid rocket motor manufacturing campus in Sandoval County, New Mexico, with 100M+ in planned investment, designed for full-scale SRM production and static testing. The US Navy recently awarded ~$50M for Blackbeard prototype production and flight testing, and Army/Navy integration contracts are active. The engineering internship touches SW, GNC, propulsion, manufacturing, mechanical/structures, and avionics. A candidate with [your prior AFRL propulsion background], active clearance, and ability to connect simulation outputs to manufacturing guidance would stand out. The role offers experience inside a company that is literally standing up an energetics manufacturing operation at unprecedented speed and scale. CEO Bryon Hargis (@hargsb on X/Twitter) is active on social media and podcasts — founder-direct DM outreach or engagement on X is a viable path to visibility before applying.
 
-**Potential gaps:** Generalist engineering internship — not specifically "materials scientist." Candidates will need to steer toward propulsion/materials in their application. Castelion is early-stage enough that intern work can be scattered. Torrance is a real relocation. Clearance is an unspoken advantage given the ITAR-controlled missile work.
+**Potential gaps:** Generalist engineering internship — not specifically "materials scientist." Candidates will need to steer toward propulsion/materials in their application. Castelion is early-stage enough that intern work can be scattered. Torrance is a real relocation (though NM campus may open future options). Clearance is an unspoken advantage given the ITAR-controlled missile work. The company is scaling extremely fast which means organizational structure is still evolving.
 
 ---
 
@@ -183,23 +184,93 @@
 
 ---
 
+## Deterrence — Automated Energetics Manufacturing
+- **Score estimate:** 70/100
+- **Sector:** Defense — Energetics Manufacturing Automation (Primers, Propellants, Pyrotechnics)
+- **Location:** Fremont, CA (R&D/manufacturing); Washington, DC (policy/BD)
+- **Timing:** Early-stage startup (seed round Jan 2025); no formal intern program found — cold outreach required
+- **Apply URL:** https://www.deterrence.com/ (check careers page; cold email to founders is the best path)
+
+**Fit analysis:** Deterrence builds autonomous manufacturing systems for critical energetic components — the explosives, propellants, and pyrotechnic materials that enable high-energy effects in all weapon systems. Founded by Dhruva Rajendra and Brian Jones (former Latch co-founders) with Henry Olgers (ex-Tesla 4680 battery cell manufacturing lead) as Head of Manufacturing, the company raised $10.1M in seed funding (Jan 2025, led by Riot Ventures). Deterrence's hardware-software platform uses machine learning and robotics to automate energetics production, improving worker safety, product quality, and scalability. For a PhD materials scientist, this is an unusually direct overlap: energetics manufacturing is fundamentally a materials processing problem — controlling composition, microstructure, and defect populations in propellants and explosives under tight safety constraints. A candidate with computational materials background, DoD lab experience, and active clearance would be a rare profile at a seed-stage startup that desperately needs materials domain expertise as it scales from prototype to production. CEO Dhruva Rajendra has been vocal about the lack of scientific innovation in defense energetics manufacturing (Axios interview Dec 2024) — a PhD candidate who can speak to that gap is a compelling cold outreach target.
+
+**Potential gaps:** Seed-stage company with no established intern program — this requires a cold outreach pitch, not a standard application. The $10.1M raise is modest; the company may not have budget for formal summer interns. Fremont, CA is a real relocation. The company is hyper-focused on primers currently, which is a narrower energetics domain. A materials scientist would need to frame their value around process control, materials characterization for QA/QC, and manufacturing process qualification rather than pure materials research.
+
+---
+
+## Prometheus Energetics — SRM Manufacturing Joint Venture
+- **Score estimate:** 72/100
+- **Sector:** Defense — Solid Rocket Motor Manufacturing / Energetics
+- **Location:** Bloomfield, IN (near Crane Army Ammunition Activity / NSWC Crane)
+- **Timing:** Construction phase; SRM production projected to begin 2027. Cold outreach now for early roles.
+- **Apply URL:** https://www.prometheusenergetics.com/ (careers page; also check Kratos and Rafael USA career portals)
+
+**Fit analysis:** Prometheus Energetics is a joint venture between Kratos Defense and Rafael Advanced Defense Systems, established to create a true U.S. merchant supplier of solid rocket motors and advanced energetic materials. The JV has committed up to $175M in capital for a state-of-the-art manufacturing campus on ~600 acres near Crane, Indiana — the first tenant of the DoD's Munitions Campus Pilot Program at Crane Army Ammunition Activity. The facility will house four SRM production lines with capacity for up to 800 tons of domestic energetics manufacturing. Prometheus leverages Rafael's combat-proven SRM technologies (Iron Dome, David's Sling, Spike) adapted for U.S. platforms under U.S. control. For a PhD materials scientist targeting defense energetics, this is one of the most directly relevant new ventures in the country: a greenfield SRM production facility being stood up from scratch, needing materials qualification, process engineering, and manufacturing science expertise. Active clearance is almost certainly required given the Crane NSWC proximity and ITAR-controlled work. The facility is in construction phase now (broke ground Feb 2026), which means early hires are defining processes, not just operating them — exactly the stage where a materials scientist has maximum impact.
+
+**Potential gaps:** Production doesn't begin until 2027, so summer 2026 intern roles may not exist yet. The company is a JV between two large entities (Kratos and Rafael), so hiring may be slower and more bureaucratic than a pure startup. Bloomfield, IN is extremely rural — this is a relocation to southern Indiana. No formal intern program has been announced. Best approach is cold outreach to Kratos/Rafael HR and Prometheus leadership, emphasizing SRM materials qualification expertise and willingness to contribute during the facility buildout phase.
+
+---
+
+## CHAOS Industries — Defense Sensing and Detection Systems
+- **Score estimate:** 68/100
+- **Sector:** Defense — UAS Detection / Autonomous Sensing Systems / Counter-Drone
+- **Location:** Hawthorne, CA (3330 W El Segundo Blvd); Los Angeles, CA (HQ)
+- **Timing:** Rapidly scaling (Series D, $510M, ~$4.5B valuation). Check Greenhouse for 2026 openings.
+- **Apply URL:** https://job-boards.greenhouse.io/chaosindustries (also https://www.chaosinc.com/contact for careers)
+
+**Fit analysis:** CHAOS Industries ($510M Series D, ~$4.5B valuation, $1B+ total raised) builds Coherent Distributed Network systems for detecting and responding to adversary UAS threats. Founded in 2022 by John Tenet (ex-Epirus, 8VC), Dr. Bo Marr (ex-Epirus, Raytheon), Gavin Hood (ex-Palantir, UK SIS), and Brett Cummings (8VC). The company works with Eglin Air Force Base and across the defense ecosystem on applied AI, radar software, and systems engineering. For a materials science PhD, the fit is indirect but real: CHAOS is manufacturing hardware at scale for defense deployment, and counter-UAS systems involve RF components, antenna materials, ruggedized electronics packaging, and thermal management — all areas where materials expertise matters. The company's explosive growth ($0 to $4.5B in 3 years) means rapid hiring and potentially more flexibility for non-traditional candidates. Active clearance is a strong signal given the classified DoD work.
+
+**Potential gaps:** CHAOS is primarily a sensing/detection company, not an energetics or propulsion company. The core technology is software-defined radar and distributed networks, which is further from materials science than SRM or munitions manufacturing. A materials candidate would need to pitch specifically toward hardware manufacturing, materials qualification for RF systems, or ruggedization engineering. The company may not have materials-specific intern roles. Hawthorne/LA location is expensive.
+
+---
+
+## Apex (Apex Space) — Satellite Manufacturing for Defense
+- **Score estimate:** 67/100
+- **Sector:** Defense / Space — Satellite Bus Manufacturing
+- **Location:** Los Angeles, CA (manufacturing facility)
+- **Timing:** Summer 2026 internships posted (Mission Integration Engineer, etc.). Active hiring.
+- **Apply URL:** https://www.apexspace.com/careers
+
+**Fit analysis:** Apex ($200M Series C, $1B+ valuation) is a satellite bus manufacturing company building productized spacecraft platforms at high production rates. The company recently opened a factory capable of building 200+ satellites per year and has invested $15M in Project Shadow, a space-based interceptor demo for the Golden Dome missile defense initiative (launch planned 2026). Apex serves US Space Force and other government customers. For a materials science PhD, the manufacturing angle is the entry point: satellite bus production involves composites, thermal management materials, precision alloy structures, and materials qualification for space environments (radiation, thermal cycling, outgassing). A candidate who can frame materials characterization and process qualification for spacecraft manufacturing has a viable pitch. The company's defense pivot (Golden Dome interceptor hosting) makes clearance-eligible candidates more valuable.
+
+**Potential gaps:** Apex is fundamentally a satellite/space manufacturing company, not an energetics or munitions company. The materials work is spacecraft structural and thermal materials, not propellants or explosives. The intern roles posted (Mission Integration Engineer) are more systems-level than materials-specific. A materials scientist would need to target manufacturing engineering or materials/processes tracks specifically. LA is expensive. Competition from aerospace engineering students at UCLA, USC, and Caltech is real.
+
+---
+
+## Forterra — Autonomous Ground Vehicle Systems for Defense
+- **Score estimate:** 70/100
+- **Sector:** Defense — Autonomous Military Ground Vehicles / Robotics
+- **Location:** Clarksburg, MD (HQ and primary engineering site)
+- **Timing:** Summer 2026 internships posted (Mechanical Engineer, Software, Electrical). Active hiring.
+- **Apply URL:** https://www.forterra.com/careers (also check Rippling ATS: ats.rippling.com/forterra/jobs)
+
+**Fit analysis:** Forterra ($238M funding, $1B+ valuation) builds the AutoDrive autonomous vehicle system for military ground platforms. The company has the DoD's first production contract for ground vehicle autonomy (Oshkosh ROGUE-Fires for USMC), a BAE Systems partnership for autonomous Armored Multi-Purpose Vehicle (AMPV) prototypes, and selection for the GEARS program (retrofitting Oshkosh PLS trucks with autonomy). Forterra integrates Aeva 4D LiDAR and other advanced sensors. For a materials science PhD, the fit centers on manufacturing and qualification: autonomous military vehicles must operate in extreme environments (desert heat, arctic cold, blast/shock, dust/mud), and materials selection, qualification testing, and failure analysis for ruggedized vehicle systems are real needs. A candidate who can frame experience in materials characterization, environmental testing, and manufacturing process engineering for defense hardware has a path. The Clarksburg, MD location is close to DC defense ecosystem — networking value is high. Active clearance is valuable for classified DoD vehicle programs.
+
+**Potential gaps:** Forterra is primarily a software/autonomy company, not a materials or manufacturing company. The 2026 intern postings are for Mechanical, Software, and Electrical engineers — no materials-specific track. A materials candidate would need to make a strong case for materials/processes engineering applied to vehicle systems. The core value proposition is autonomous driving software, not hardware manufacturing. Clarksburg, MD is suburban — fine for DC area but not a major metro. Competition from robotics and CS students will be intense for the software-adjacent roles.
+
+---
+
 ## Summary Table
 
 | Company | Role | Sector | Location | Score | Status |
 |---------|------|--------|----------|-------|--------|
 | RTX (Raytheon) | Energetics & Propulsion Engineer Intern | Defense / SRM | Tucson, AZ | 88 | Active |
 | Aerojet Rocketdyne / L3Harris | Materials & Processes Engineering Intern | Defense / SRM | Culpeper VA / Canoga Park CA | 85 | Active |
-| PSI Physical Sciences | Propulsion & Energetics Intern | Defense / Energetics | Andover MA / Epping NH | 82 | Email to confirm |
 | Radiant Nuclear | Materials Engineer Intern | Nuclear / Fission | El Segundo, CA | 84 | Active (may have offers out) |
+| PSI Physical Sciences | Propulsion & Energetics Intern | Defense / Energetics | Andover MA / Epping NH | 82 | Email to confirm |
 | LLNL CCMS | Computational Materials Graduate Intern | National Lab / Defense | Livermore, CA | 82 | Active |
 | Northrop Grumman | Parts, Materials & Process Engineering Intern | Defense / SRM | Roy, UT | 80 | Active |
 | CFS | Materials Engineer or Materials Test Intern | Nuclear / Fusion | Devens, MA | 78 | Active |
 | PSI Physical Sciences | Composites Engineer Intern | Defense / CMC | Wilmington, MA | 77 | Active |
-| Mach Industries | Manufacturing Intern | Defense / Munitions | Huntington Beach, CA | 74 | Active |
+| Mach Industries | Manufacturing / Propulsion Intern | Defense / Munitions / Propulsion | Huntington Beach, CA | 76 | Active |
+| Castelion | Engineering Intern (Summer 2026) | Defense / Hypersonic / SRM | Torrance, CA / Sandoval County, NM | 76 | Active |
 | General Atomics | Materials Scientist Intern | Defense / Nuclear | San Diego, CA | 73 | Verify current posting |
-| Castelion | Engineering Intern (Summer 2026) | Defense / Hypersonic | Torrance, CA | 72 | Active |
+| Prometheus Energetics | Cold outreach (no formal program) | Defense / SRM Manufacturing | Bloomfield, IN (Crane) | 72 | Construction phase — cold outreach |
 | Materion | 2026 Internship & Co-Op Program | Critical Materials | Multiple US sites | 71 | Active |
 | Joby Aviation | Composite Manufacturing Engineering Intern | eVTOL / Composites | Marina, CA | 70 | Active |
+| Deterrence | Cold outreach (no formal program) | Defense / Energetics Automation | Fremont, CA | 70 | Seed-stage — cold outreach |
+| Forterra | Mechanical / Manufacturing Intern | Defense / Autonomous Vehicles | Clarksburg, MD | 70 | Active |
+| CHAOS Industries | Check Greenhouse for roles | Defense / Counter-UAS Sensing | Hawthorne / Los Angeles, CA | 68 | Check Greenhouse |
+| Apex (Apex Space) | Mission Integration Intern | Defense / Space Manufacturing | Los Angeles, CA | 67 | Active |
 
 ---
 
@@ -216,13 +287,20 @@
 6. CFS — Materials Engineer (fusion is different from energetics but materials depth applies)
 7. LLNL CCMS (strongest computational fit; may trade manufacturing reps for research prestige)
 8. PSI — Composites Engineer (CMC testing, NDE characterization, directly relevant)
-9. Mach Industries — Manufacturing (startup speed, but less materials-specific)
+9. Mach Industries — Manufacturing/Propulsion (startup speed, Mach Propulsion division is strong fit; founder-direct outreach via Ethan Thornton on X)
+10. Castelion — Engineering Intern ($350M+ Series B, Project Ranger SRM campus; founder-direct outreach via Bryon Hargis on X)
+
+**Cold outreach tier (no formal intern program — requires direct engagement):**
+11. Prometheus Energetics — Greenfield SRM manufacturing campus at Crane, IN. JV between Kratos and Rafael. Construction phase now, production 2027. Cold outreach to Kratos/Rafael HR or Prometheus leadership emphasizing SRM materials qualification expertise.
+12. Deterrence — Automated energetics manufacturing. Seed-stage, $10.1M raised. Cold outreach to CEO Dhruva Rajendra. Emphasize materials process control and energetics manufacturing science.
 
 **Situational:**
-- Castelion (good if also applying to other Torrance area roles)
+- Forterra (autonomous military vehicles, Clarksburg MD — fit is indirect but DC defense ecosystem proximity is valuable)
 - Materion (critical materials, but pay is low for PhD level)
+- CHAOS Industries (counter-UAS sensing, $4.5B valuation — check Greenhouse for hardware/manufacturing roles)
+- Apex Space (satellite manufacturing, Golden Dome interceptor demo — space materials qualification angle)
 - Joby Aviation (composites manufacturing experience, but no defense synergy)
 
 ---
 
-*Sources consulted: RTX careers portal, L3Harris careers portal, Radiant/Greenhouse, CFS/Lever, LLNL job search, PSI open positions page, Northrop Grumman Workday, General Atomics careers, Mach Industries Ashby, Castelion careers page, Materion Workday, Joby Aviation iCIMS, ZipRecruiter, SpaceCrew, BuiltInLA, Glassdoor, web search results 2026-02-25.*
+*Sources consulted: RTX careers portal, L3Harris careers portal, Radiant/Greenhouse, CFS/Lever, LLNL job search, PSI open positions page, Northrop Grumman Workday, General Atomics careers, Mach Industries Ashby, Castelion careers page, Materion Workday, Joby Aviation iCIMS, ZipRecruiter, SpaceCrew, BuiltInLA, Glassdoor, web search results 2026-02-25. Updated 2026-03-03: Castelion (castelion.com, TechCrunch, GovConWire, The Defense Post), Mach Industries (TechCrunch, PR Newswire, Soldier Systems Daily), Deterrence (deterrence.com, Axios, PRWeb, VCNewsDaily), Prometheus Energetics (prometheusenergetics.com, Breaking Defense, PR Newswire, Area Development), CHAOS Industries (chaosinc.com, Washington Technology, Crunchbase), Apex Space (apexspace.com, SpaceNews, Air & Space Forces), Forterra (forterra.com, Defense News, Breaking Defense, Bloomberg).*

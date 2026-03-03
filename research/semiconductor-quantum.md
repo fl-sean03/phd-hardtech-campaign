@@ -143,6 +143,24 @@
 
 ---
 
+## Wolfspeed — Summer 2026 Internship, SiC Semiconductor Manufacturing (Durham, NC / Marcy, NY)
+- **Score estimate:** 70/100
+- **Sector:** Semiconductor Manufacturing — Silicon Carbide (SiC) Power Devices, Wide Bandgap Materials
+- **Location:** Durham, NC (HQ, R&D) and Marcy, NY (Mohawk Valley Fab — world's largest 200mm SiC fabrication facility)
+- **Timing:** Summer 2026, 11-week program. Wolfspeed runs an active early career internship program; majority of internships take place during summer months. Check Workday portal for current postings.
+- **Apply URL:** https://www.wolfspeed.com/careers/early-career-programs/ (also search https://cree.wd108.myworkdayjobs.com/EXT for specific 2026 postings)
+- **Pay:** Not publicly listed; semiconductor manufacturing intern rates typically $25–40/hr depending on degree level
+- **Responsibilities (based on program description):** Hands-on project-based assignments in SiC crystal growth, epitaxy, device fabrication, process engineering, materials characterization, and manufacturing. Internship tracks span Materials, R&D, Manufacturing/Fab, and Engineering.
+- **Required qualifications:** Active enrollment in Bachelor's, Master's, or PhD program in Materials Science, Electrical Engineering, Chemical Engineering, Physics, or related field.
+
+**Fit analysis:** Wolfspeed is the global leader in silicon carbide semiconductor technology — SiC is a critical wide bandgap material for power electronics (EV inverters, grid infrastructure, defense power systems). The Mohawk Valley Fab in Marcy, NY is the world's largest 200mm SiC fabrication facility and represents one of the most significant semiconductor manufacturing investments in the US. SiC crystal growth and device fabrication are fundamentally materials science problems — crystal defect management, epitaxial interface quality, substrate-device interface stability, and thermal management are all interface-adjacent research areas that a materials science PhD can address. Wolfspeed also announced the world's first 300mm single-crystal SiC wafer in January 2026, signaling continued R&D investment in next-generation materials processing.
+
+**Direct fit flags:** SiC is a core materials science domain — wide bandgap semiconductor physics, crystal growth, epitaxial deposition, and device-level interface characterization are directly relevant to a materials PhD. Materials Science is explicitly listed as an eligible degree. The manufacturing ramp at Mohawk Valley means active process engineering challenges where computational and characterization experience adds value.
+
+**Potential gaps:** Wolfspeed emerged from a 91-day prepackaged Chapter 11 bankruptcy on September 29, 2025, eliminating $4.6B of its $6.7B debt. The company has since received ~$700M in CHIPS Act Section 48D tax refunds and cut operating expenses by ~$200M annualized, but financial stability remains a concern — the anticipated $750M direct CHIPS Act grant did not materialize due to policy shifts and balance sheet conditions. EV demand softness is ongoing, though AI data center power demand is growing (50% quarterly revenue growth in that segment as of Q2 FY2026). The Durham 150mm device fab has been shut down, with all device production shifted to Mohawk Valley. Intern program continuity through restructuring should be verified — check the careers portal for confirmed summer 2026 postings. No clearance advantage here. No specific materials science PhD intern posting was confirmed in search results — search the Workday portal directly and consider direct outreach to the materials or process engineering teams at Mohawk Valley.
+
+---
+
 ## QUANTUM COMPUTING / QUANTUM MATERIALS
 
 ---
@@ -396,6 +414,7 @@
 | Axiom Space | Engineering Intern | Commercial Space | Houston, TX | **65** | — | Active, check materials track |
 | Safran DSI | Engineering Intern — Space Solutions | Defense/Space | Parker, CO | **66** | Partial | Active — but low pay |
 | Airbus US | Summer Engineering Intern | Aerospace | Wichita, KS and others | **65** | — | Active — May 18–Aug 7 |
+| Wolfspeed | SiC Manufacturing Intern | Semiconductor (SiC) | Durham, NC / Marcy, NY | **70** | — | Check portal — post-Ch.11 |
 | Entegris | R&D Engineering Intern | Specialty Materials | Colorado Springs, CO | **68** | — | Active — near Boulder |
 
 ---
@@ -437,8 +456,8 @@ In this specific company list (semiconductor, quantum, instruments), Secret clea
 
 ## Application Strategy by Role Type
 
-### For Semiconductor Roles (AMAT, Lam, KLA)
-Lead with: [Your prior government/national lab experience] produced manufacturing process guidance — "I built computational workflows that defined processing windows." SEM characterization is daily research work. HPC-scale MD simulation of thin film interfaces is directly transferable to semiconductor process development. Do NOT lead with clearance.
+### For Semiconductor Roles (AMAT, Lam, KLA, Wolfspeed)
+Lead with: [Your prior government/national lab experience] produced manufacturing process guidance — "I built computational workflows that defined processing windows." SEM characterization is daily research work. HPC-scale MD simulation of thin film interfaces is directly transferable to semiconductor process development. For Wolfspeed specifically: SiC is a core materials science domain — crystal growth, epitaxial interface quality, and wide bandgap device physics are PhD-level problems. Frame SiC as a materials frontier, not just a device technology. Do NOT lead with clearance.
 
 ### For Quantum Hardware Roles (Quantinuum, Rigetti, IBM)
 Lead with: Interface failure at the atomic scale is the materials challenge that limits qubit coherence. MD/DFT modeling of interface stability + SEM characterization + documentation rigor maps directly to quantum device fabrication challenges. Quantinuum specifically: US citizenship contractual requirement + Materials Science preferred degree = direct fit to flag prominently.

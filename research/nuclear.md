@@ -135,6 +135,18 @@
 
 ---
 
+## Radiant — Summer 2026 Internship – Nuclear Engineer / Fuel Performance Modeling
+- **Fit score:** 84/100
+- **Location:** El Segundo, CA (100% onsite, HQ)
+- **Timing:** Summer 2026, 12 weeks onsite. Radiant began interviewing for Summer 2026 internships in Nov/Dec 2025 — positions may still be open but apply promptly.
+- **Apply URL:** https://job-boards.greenhouse.io/radiant/jobs/4606675005 (Nuclear Engineer — returned 404 in Mar 2026; verify via https://www.radiantnuclear.com/careers or Greenhouse board)
+- **Pay:** Not explicitly disclosed for interns; Radiant's compensation packages include base salary, equity, and comprehensive benefits. ZipRecruiter estimates $12–$22/hr for intern-level roles, but Radiant's actual rates may be higher given equity component.
+- **Fit analysis:** Radiant is building the Kaleidos 1 MW portable microreactor — the first new commercial reactor design aiming for a fueled test in over 50 years (target: 2026). Multiple Summer 2026 intern tracks posted: Nuclear Engineer (radiation transport and shielding), Fuel Performance Modeling Engineer (BISON TRISO fuel modeling), Mechanical Engineer (fluid systems, mechanisms, structures), and Software Engineering. The Fuel Performance Modeling role is an exceptionally strong fit — requires BISON TRISO fuel performance modeling experience, which is a computational materials simulation role. Radiation transport/shielding role involves neutronics calculations. PhD candidates in materials science, nuclear, or mechanical engineering are explicitly welcome. Radiant's small team size (~100 employees) means interns get real project ownership.
+- **Potential gaps:** Greenhouse URLs returned 404 in March 2026 research — Summer 2026 intern postings may have been filled or cycled. Verify directly via Radiant's careers page. El Segundo CA is a relocation. BISON/TRISO modeling experience is a specific requirement for the fuel performance role that may not be in a standard materials science PhD toolkit — but computational simulation methodology transfers.
+- **Note:** Radiant is backed by DCVC, Cantos Ventures, and other deep-tech investors. Pre-revenue startup building hardware — strong brand signal for a resume. The 2026 fueled test timeline means interns are working on hardware that will see real irradiation testing.
+
+---
+
 ## TerraPower — Intern, Material Engineering
 - **Fit score:** 80/100
 - **Location:** Bellevue, WA
@@ -170,26 +182,40 @@
 ## Commonwealth Fusion Systems — Intern, Computational Materials Engineer – Spring/Summer 2026
 - **Fit score:** 86/100
 - **Location:** Devens, MA (onsite)
-- **Timing:** Spring or Summer 2026 (posted; verify current status — some sources indicate no longer accepting)
+- **Timing:** Spring or Summer 2026 — **NOTE (Mar 2026): Breakthrough Energy Ventures job board indicates this position is no longer accepting applications.** Check lever directly to confirm.
 - **Apply URL:** https://jobs.lever.co/cfsenergy (search Computational Materials Engineer Intern — previous direct lever URL returned 404)
 - **Pay:** $23–$35/hr
 - **Fit analysis:** CFS is developing physics-based model toolkits to predict materials performance in extreme environments. Gathering literature datasets, model validation, experimental characterization, developing key process-structure-property relationships for structural materials — directly analogous to what PhD-level computational materials researchers do daily. LAMMPS/DFT/Python stack is the exact toolkit for this work.
-- **Potential gaps:** Position may no longer be accepting applications as of Feb 2026. Verify directly on lever. CFS focuses on high-temperature superconducting magnets (REBCO tapes) — the extreme materials are mostly electromagnetic/structural rather than fission fuel.
+- **Potential gaps:** Position appears closed as of March 2026 per BEV job board. CFS focuses on high-temperature superconducting magnets (REBCO tapes) — the extreme materials are mostly electromagnetic/structural rather than fission fuel.
+- **SPARC status update (Mar 2026):** SPARC construction at Devens is in active assembly. First of 18 high-field superconducting magnets installed (Jan 2026), full ring expected by end of summer 2026. First 48-ton half of vacuum vessel delivered — most complex structural components entering final assembly. First plasma targeted for 2027. CFS partnered with Siemens and Nvidia for AI-assisted design. Company has 41+ open positions on Glassdoor. Multiple Summer 2026 intern roles still posted on lever (Nuclear Engineer, Materials Engineer/Test, Operations Engineer, R&D Test Engineer, Plasma Physics, Business Strategy).
 
 ---
 
 ## Commonwealth Fusion Systems — Intern, Materials Engineer or Materials Test – Spring/Summer 2026
-- **Fit score:** 75/100
+- **Fit score:** 78/100
 - **Location:** Devens, MA (onsite)
-- **Timing:** Spring or Summer 2026
-- **Apply URL:** https://jobs.lever.co/cfsenergy/2833ee80-b442-4f4b-9135-fc68d715e46a (returned 404 in research — check lever jobs board)
+- **Timing:** Spring or Summer 2026 — **confirmed still posted on lever as of Mar 2026**
+- **Apply URL:** https://jobs.lever.co/cfsenergy/2833ee80-b442-4f4b-9135-fc68d715e46a (URL now resolving — confirmed active)
 - **Pay:** $23–$35/hr
-- **Fit analysis:** Design and build of high-temperature outgassing test stands, mechanical testing of composite materials, commissioning test equipment. Characterization-heavy, manufacturing-adjacent. Materials test engineering experience aligns with candidates who have built rigorous validation frameworks.
-- **Potential gaps:** URL returned 404 — may be filled or moved. Verify on lever board.
+- **Fit analysis:** Design and build of high-temperature outgassing test stands, mechanical testing of composite materials, commissioning test equipment. Example projects include development of joining processes, ceramic coating testing, and assistance with test equipment design. Characterization-heavy, manufacturing-adjacent. Materials test engineering experience aligns with candidates who have built rigorous validation frameworks. With SPARC now in active assembly (magnets being installed, vacuum vessel delivered), this role is directly supporting hardware going into the machine.
+- **Potential gaps:** CFS focuses on fusion-specific materials (REBCO superconducting tapes, structural components under electromagnetic loads) rather than fission fuel. Devens MA is a relocation.
+- **Note:** CFS also posted a Fall Co-op 2026 Materials Test Engineer intern role — if summer timing doesn't work, check for that listing on lever.
 
 ---
 
 ## TIER 3 — Monitor / Speculative / Not Confirmed Active
+
+---
+
+## Pacific Fusion — Summer 2026 Internship (Mechanical / Electrical / Manufacturing Engineering)
+- **Fit score:** 68/100
+- **Location:** San Leandro, CA (HQ) or Los Lunas, NM ($1B manufacturing campus announced Sep 2025)
+- **Timing:** Summer 2026, minimum 10 consecutive weeks onsite beginning June 2026. Active hiring as of March 2026.
+- **Apply URL:** https://www.pacificfusion.com/careers (multiple Summer 2026 intern postings on Greenhouse: Mechanical Engineering – Target Area, Mechanical Engineering – Pulser, Electrical Engineering – Target Area, Electrical Engineering, Optical Engineering, Manufacturing Engineering, Software Engineering, Supply Chain)
+- **Pay:** $38–$48/hr (confirmed for Mechanical Engineering intern; likely similar across tracks) — notably higher than most nuclear internships.
+- **Fit analysis:** Pacific Fusion is building a pulsed magnetic fusion system — magnetically driven inertial confinement fusion (MagLIF-adjacent). $900M milestone-based Series A (Oct 2024, led by General Catalyst; investors include Breakthrough Energy Ventures, Eric Schmidt, Patrick Collison, Lowercarbon Capital). 60 MA demonstration system designed to achieve facility gain. The Target Area engineering roles involve designing, assembling, and testing components that handle centimeter-scale D-T fuel capsules compressed by massive magnetic pulses — extreme materials environments (high current density, shock loading, thermal transients). Manufacturing Engineering intern at the NM facility would be directly manufacturing-floor-adjacent. Interns own a full project through planning, design, assembly, and testing. All intern projects are described as "high priority and value-added."
+- **Potential gaps:** No dedicated materials science or computational materials intern posting found as of March 2026. The closest fit is Mechanical Engineering (Target Area) which involves materials under extreme pulsed conditions, or Manufacturing Engineering. Fusion target physics is a specialized domain — pulsed power and shock physics rather than steady-state reactor materials. CAD experience and mechanical design fundamentals are listed requirements rather than simulation/HPC skills. Would need to frame computational materials background as relevant to target design and materials performance under impulsive loading.
+- **Note:** Pacific Fusion is one of the best-funded fusion startups in the world. The NM campus (construction starting 2026) will create hundreds of jobs — monitor for materials-specific roles as the manufacturing facility scales. The company collaborates with Sandia National Labs on MagLIF-relevant physics and with University of Rochester Flash Center on validated multi-physics simulation codes.
 
 ---
 
@@ -201,6 +227,19 @@
 - **Fit analysis:** Lower-order fuel performance models to accelerate core-design iteration. Distilling key phenomena for safety and design applications and calibrating simplified models against validation cases. Multi-fidelity simulation framework experience is directly applicable. Idaho Falls location means proximity to INL campus.
 - **Potential gaps:** No confirmed active 2026 posting found. Oklo is a microreactor company (Aurora, metallic fuel) — fast reactor fuel performance domain. Company is publicly traded (NYSE: OKLO) but still pre-commercial.
 - **DOE connection note:** Oklo's fuel fabrication work is closely tied to INL. Candidates with [your prior INL experience] have specific credibility with Oklo's fuel engineering team.
+
+---
+
+## Centrus Energy — Intern / Student Program (HALEU Enrichment)
+- **Fit score:** 72/100
+- **Location:** Bethesda, MD (HQ) or Piketon, OH (American Centrifuge Plant — enrichment facility)
+- **Timing:** Summer 2026 (no dedicated intern posting confirmed as of March 2026 — check Oracle careers portal for seasonal openings)
+- **Apply URL:** https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/jobs (Oracle-based career portal) or https://www.centrusenergy.com/careers/
+- **Pay:** Not disclosed (estimate $24–$32/hr based on DOE contractor norms for engineering interns)
+- **Fit analysis:** Centrus Energy operates the only NRC-licensed HALEU (High-Assay Low-Enriched Uranium) enrichment facility in the United States — the American Centrifuge Plant in Piketon, OH. This is the first new US-owned, US-technology uranium enrichment plant to begin production since 1954. Centrus is the critical upstream supplier for nearly every advanced reactor company (TerraPower, X-energy, Oklo, Kairos all need HALEU fuel). DOE contract extended through June 2026 for HALEU production via 16-centrifuge cascade (~900 kg HALEU UF6/year). Major expansion underway: multi-billion-dollar investment planned for Piketon, adding 300+ operations jobs and 1,000 construction jobs. Materials science relevance: gas centrifuge enrichment involves high-speed rotating machinery, UF6 gas handling, corrosion-resistant materials, and isotope separation physics. Candidates with DOE clearance eligibility and materials/manufacturing backgrounds are directly relevant. NYSE-listed (LEU) — established company, not a startup.
+- **Potential gaps:** No dedicated summer internship posting found in March 2026 research — Centrus recruits through their Oracle career portal, which may post intern roles closer to summer. The company requires DOE security clearance for most positions — clearance processing could delay start. Piketon OH is rural southern Ohio (Pike County) — significant relocation with limited housing options. The work is enrichment/fuel cycle rather than reactor materials — less directly connected to thermal interface or computational materials research. Cold outreach to HR or engineering managers may be necessary.
+- **DOE connection note:** Centrus works under extensive DOE contracts and NRC licensing. Candidates with [your prior DOE national lab experience] understand the regulatory and security infrastructure that defines Centrus's operating environment. The HALEU supply chain is the single biggest bottleneck for advanced reactor deployment in the US — working at Centrus puts you at the chokepoint of the entire industry.
+- **Strategic note:** Even if no formal internship materializes, Centrus is worth monitoring closely. As the only domestic HALEU supplier, any expansion of the advanced reactor industry flows through Piketon first.
 
 ---
 
@@ -269,9 +308,9 @@
 
 ## Zap Energy — (No Open Intern Positions)
 - **Fit score:** 55/100 (for materials role, if posted)
-- **Location:** San Diego, CA (recently moved from Seattle)
+- **Location:** San Diego, CA and San Marcos, CA (moved from Seattle; ~150 employees across both sites)
 - **Apply URL:** https://zapenergy1.applytojob.com/apply
-- **Notes:** Only one open position found (Pulsed Power Engineer). No student or internship positions. Z-pinch fusion is an interesting plasma-materials domain but no hiring opportunity found at present. Monitor quarterly.
+- **Notes:** Zap Energy achieved a major milestone in November 2025 — their FuZE-3 device generated plasmas at 1.6 GPa total pressure, the highest ever recorded in a sheared-flow-stabilized Z-pinch. The company is the only fusion startup using sheared-flow-stabilized Z-pinch, presenting a potentially fast path to commercial fusion. As of March 2026, approximately 7 open positions (per ZipRecruiter), primarily Pulsed Power Engineer roles in San Diego. Still no student or internship positions posted. Z-pinch fusion is an interesting plasma-materials domain but no internship hiring opportunity found at present. Monitor quarterly — the company's technical momentum (gigapascal-class pressures) suggests headcount growth may follow.
 
 ---
 
@@ -279,20 +318,27 @@
 
 | Priority | Company | Role | Score | Action |
 |----------|---------|------|-------|--------|
-| 1 | Commonwealth Fusion Systems | Computational Materials Engineer Intern | 86 | **URGENT — check lever immediately, may still be open** |
-| 2 | Kairos Power | Modeling & Simulation / Nuclear Engineering Intern | 88 | Apply now — confirmed active |
-| 3 | Kairos Power | Chemical and Materials Engineering Intern | 82 | Apply now — confirmed active |
+| 1 | Kairos Power | Modeling & Simulation / Nuclear Engineering Intern | 88 | Apply now — confirmed active |
+| 2 | Commonwealth Fusion Systems | Computational Materials Engineer Intern | 86 | **Likely closed** — BEV board says no longer accepting. Verify on lever. |
+| 3 | Radiant | Nuclear Engineer / Fuel Performance Modeling Intern | 84 | Verify Greenhouse URL — Summer 2026 interviews started Nov/Dec 2025 |
 | 4 | Helion Energy | Materials Engineering Summer 2026 Intern | 84 | Apply now — confirmed active |
-| 5 | TerraPower | Intern, Material Engineering | 80 | Verify URL, then apply |
+| 5 | Kairos Power | Chemical and Materials Engineering Intern | 82 | Apply now — confirmed active |
 | 6 | BWX Technologies | Materials Science/Engineering Intern | 81 | Verify current open listing on BWXT portal |
-| 7 | Westinghouse | Materials & Process Engineering Intern | 78 | Apply now — confirmed active |
-| 8 | Framatome | Materials Engineering Intern (Lynchburg) | 76 | Verify via North America careers portal |
-| 9 | Oklo | Materials & Fuel Performance Intern | 79 | Check careers page for 2026 posting |
-| 10 | BWX Technologies | Mechanical Analysis Intern | 72 | Confirmed active — backup if materials role filled |
-| 11 | Westinghouse | Metallurgical Engineering Intern (Ogden) | 71 | Confirmed active — apply if Pittsburgh filled |
-| 12 | X-energy | Engineering Intern, Systems | 68 | Apply with strong TRISO materials framing |
-| 13 | Framatome | IBPE SCAD Intern (Lynchburg) | 70 | Computational role — verify availability |
-| 14 | Lightbridge | (Cold outreach, no formal program) | 55 | Email pitch referencing ATR/INL campaign if you have prior INL background |
+| 7 | TerraPower | Intern, Material Engineering | 80 | Verify URL, then apply |
+| 8 | Oklo | Materials & Fuel Performance Intern | 79 | Check careers page for 2026 posting |
+| 9 | Commonwealth Fusion Systems | Materials Engineer or Materials Test Intern | 78 | **Confirmed active on lever** — apply now |
+| 10 | Westinghouse | Materials & Process Engineering Intern | 78 | Apply now — confirmed active |
+| 11 | Framatome | Materials Engineering Intern (Lynchburg) | 76 | Verify via North America careers portal |
+| 12 | TerraPower | Intern, Natrium Nuclear Methods / Fuel Software | 74 | Verify — Jan 17 deadline may have passed |
+| 13 | Framatome | Fuel Design Engineer Intern (Richland) | 73 | Verify via North America careers portal |
+| 14 | Centrus Energy | Intern / Student (HALEU Enrichment) | 72 | Check Oracle careers portal — no confirmed posting yet |
+| 15 | BWX Technologies | Mechanical Analysis Intern | 72 | Confirmed active — backup if materials role filled |
+| 16 | Westinghouse | Metallurgical Engineering Intern (Ogden) | 71 | Confirmed active — apply if Pittsburgh filled |
+| 17 | Framatome | IBPE SCAD Intern (Lynchburg) | 70 | Computational role — verify availability |
+| 18 | Pacific Fusion | Mechanical / Manufacturing Engineering Intern | 68 | Apply — confirmed active, $38–$48/hr, no materials-specific role |
+| 19 | X-energy | Engineering Intern, Systems | 68 | Apply with strong TRISO materials framing |
+| 20 | Zap Energy | (No intern positions) | 55 | Monitor — major technical milestone Nov 2025 but no intern openings |
+| 21 | Lightbridge | (Cold outreach, no formal program) | 55 | Email pitch referencing ATR/INL campaign if you have prior INL background |
 
 ---
 
@@ -309,4 +355,4 @@ Lead with it for BWXT, TerraPower, and any clearance-adjacent roles: "Active Sec
 
 ---
 
-*Research date: 2026-02-25. URL status reflects availability at time of research — verify all apply links before submitting. Nuclear industry recruiting moves quickly; postings filled without notice.*
+*Research date: 2026-02-25, updated 2026-03-03. URL status reflects availability at time of research — verify all apply links before submitting. Nuclear industry recruiting moves quickly; postings filled without notice.*

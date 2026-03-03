@@ -20,6 +20,9 @@
 | Haynes International | Applications Engineering Intern | High-Temperature Alloys | Kokomo, IN | 63 | Active |
 | Google DeepMind | Student Researcher, PhD – Winter/Summer 2026 | Science AI / Materials AI | Multiple US cities | 70 | DEADLINE PASSED Feb 26 — note for next cycle |
 | Microsoft Research | Research Intern – Quantum Computing and AI for Chemistry and Materials Science | Materials AI / Quantum Chemistry | Redmond, WA | 72 | Active, recruiting Dec–Aug |
+| Sila Nanotechnologies | Materials Development Engineer Intern | Silicon Anode Battery Materials | Alameda, CA | 74 | Active (multiple intern postings) |
+| Foundation Alloy | (No current intern postings) | Solid-State Alloy Manufacturing | Cambridge, MA | 68 | Monitor — no open roles, early-stage |
+| SeAH Superalloy Technologies | (No current intern postings) | Aerospace Superalloys | Temple, TX | 67 | Monitor — facility ramping Q1–Q3 2026 |
 
 ---
 
@@ -36,6 +39,10 @@
 | Form Energy | Careers page shows no internship listings — hiring is focused on manufacturing technicians for Form Factory 1. |
 | USA Rare Earth | Only open role is a remote Application Engineer (FT). No intern postings. |
 | Extropic | Thermodynamic AI computing company, not materials science. No internship postings visible. |
+
+---
+
+**Note:** Niron Magnetics has been moved to [critical-minerals.md](critical-minerals.md) as it fits better under the critical minerals / rare earth alternatives category.
 
 ---
 
@@ -216,6 +223,61 @@
 
 ---
 
+## Sila Nanotechnologies — Materials Development Engineer Intern
+- **Fit score:** 74/100
+- **Location:** Alameda, CA (onsite, Bay Area)
+- **Timing:** Summer 2026. Full-time 40 hrs/wk, minimum 12 weeks; 16–26 week commitment strongly preferred.
+- **Apply URL:** https://www.silanano.com/careers (primary); also aggregated on Climate Draft, LinkedIn, and Indeed
+- **Compensation:** $25–39/hr (range at time of posting; PhD-level experience likely toward upper end)
+
+**Fit analysis:**
+- Sila Nanotechnologies is the leading silicon anode battery materials company, having raised over $1.4B (Series G at ~$2B valuation in 2024). Their Titan Silicon anode material is the first major chemistry improvement to lithium-ion batteries in 30 years — a drop-in replacement for graphite that significantly boosts energy density.
+- The Materials Development Engineer Intern role involves hands-on materials development work on next-gen anode materials. Sila also posts Battery R&D Capabilities internships focused on planning and executing projects combining hardware, software, and procedures to grow R&D toolset. Both roles involve working collaboratively with technicians, engineers, and scientists.
+- Sila is at a critical manufacturing scale-up inflection: their Moses Lake, WA production facility is ramping to deliver Titan Silicon to automotive OEM customers. Intern work feeds into real production-scale decisions — not just lab curiosity.
+- Materials characterization depth (SEM, XRD, electrochemical testing) and Python/data analysis skills transfer directly. The silicon anode problem is fundamentally an interface problem — SEI formation, volume expansion management, cycling stability — which maps well to interface failure research experience.
+- Compensation is strong for a battery materials internship ($25–39/hr range), significantly better than comparable roles at Solid Power ($20–22/hr).
+- Multiple intern tracks available (Materials Development, Battery R&D Capabilities, Electrolyte Development, Slurry and Coating, AI/ML) — worth applying to 2–3 simultaneously.
+
+**Potential gaps:** Alameda, CA requires relocation. Bay Area cost of living is high even with decent intern pay. Sila is a battery company, not a defense or aerospace company — security clearance doesn't directly add value. Competition for intern spots is high given Sila's profile and Bay Area talent pool. The careers page uses dynamic loading and may not show all positions directly — check LinkedIn and aggregator boards (Climate Draft, Indeed) for the full listing. The 16–26 week preferred commitment may conflict with academic calendar constraints.
+
+---
+
+## Foundation Alloy — (Monitor for Future Postings)
+- **Fit score:** 68/100
+- **Location:** Cambridge, MA (MIT/Kendall Square area)
+- **Timing:** No current intern postings as of March 2026. Careers portal (Rippling ATS) shows "No open positions at this time." Monitor for future openings.
+- **Apply URL:** https://foundation-alloy.rippling-ats.com/ (careers portal — register for notifications)
+- **Compensation:** Not available (no current postings)
+
+**Fit analysis:**
+- Foundation Alloy is an MIT-spinout (founded 2022) developing a fundamentally novel approach to alloy manufacturing: their MetalsFIRST platform uses fully solid-state metallurgy — mixing metal powders at the atomic level without melting. This is a genuine paradigm shift in how alloys are made, producing materials 2x stronger than traditional alloys with 10x faster development cycles.
+- The company engineers ultra-high-performance alloys including chromium, cobalt, molybdenum, and tungsten. Their Molyclast family of molybdenum alloys delivers 3x the hardness of TZM (the current market leader) while maintaining ductility. Applications span aerospace, defense, advanced manufacturing, and energy.
+- Foundation Alloy has raised ~$18.5M (Seed VC-II) from Engine Ventures, America's Frontier Fund, Material Impact, Yamaha Motor Ventures, and Alumni Ventures. They have a DOE contract for enabling resilient domestic supply chains for critical reactor components using novel materials and additive manufacturing.
+- For a computational materials PhD student, this company represents the translation layer made real — computational alloy design informing a novel manufacturing process. The solid-state powder metallurgy approach has direct analogs to computational processing window research.
+- The company is early-stage (~20–30 employees estimated) and Cambridge-based, which means intern work would likely involve substantial scope and direct researcher interaction.
+
+**Potential gaps:** No current intern postings — the company may be too early-stage or too small to run a formal intern program. The Rippling ATS portal explicitly states no open positions. Worth monitoring quarterly and reaching out directly via LinkedIn to founders (MIT alumni network). Cambridge, MA requires relocation. As an early-stage startup, compensation and structure may be informal. The solid-state powder metallurgy focus is novel but narrow — experience may not transfer as broadly as work at a larger specialty metals company.
+
+---
+
+## SeAH Superalloy Technologies — (Monitor for Future Postings)
+- **Fit score:** 67/100
+- **Location:** Temple, TX (new $110M manufacturing facility, 45 acres in Temple Industrial Park)
+- **Timing:** No current intern postings as of March 2026. Facility under construction with commercial production anticipated Q1–Q3 2026. Full-time hiring of ~100 positions underway.
+- **Apply URL:** https://www.seahsuperalloys.com/careers (resume submission form); LinkedIn page for role-specific postings
+- **Compensation:** Not available (no current intern postings)
+
+**Fit analysis:**
+- SeAH Superalloy Technologies is a subsidiary of the Korean SeAH Group, building the first special alloy manufacturing facility in the US by a South Korean company. The Temple, TX facility represents a $110M investment to produce 6,000 tons of specialty superalloys annually for aerospace and defense applications.
+- The facility is at a unique inflection point: construction completing in early 2026 with production ramping through Q3 2026. Getting in during the ramp-up phase of a greenfield superalloy plant would provide rare exposure to process commissioning, qualification, and scale-up — experiences typically unavailable at established facilities.
+- SeAH explicitly seeks "talented people with experience in superalloys and metallurgical sciences." The Operations team runs the production floor; the Engineering team develops and refines processes, equipment, and technologies. Both tracks are relevant for materials science PhD candidates.
+- Superalloy manufacturing for aerospace (nickel-based superalloys, cobalt alloys) directly overlaps with the specialty metals ecosystem (Carpenter Technology, ATI, Haynes International) already in this research set. SeAH adds a greenfield manufacturing perspective that the established companies cannot offer.
+- Temple, TX is centrally located (60 miles north of Austin), lower cost of living than Bay Area or East Coast locations.
+
+**Potential gaps:** No formal intern program currently listed — the company is focused on hiring full-time production and engineering staff for facility ramp-up. As a Korean-origin company establishing US operations, organizational culture and communication norms may differ from US-native companies. Temple, TX is not a major metro area. The facility is brand new and may face startup challenges (commissioning delays, process qualification issues) that could limit intern learning scope. Worth monitoring their LinkedIn and careers page monthly as the facility approaches full production — intern or co-op programs may emerge once operations stabilize. Consider reaching out directly to express interest in a summer role during the ramp-up phase.
+
+---
+
 ## Priority Recommendations (This Set Only)
 
 **Apply immediately — tight timeline:**
@@ -226,13 +288,18 @@
 3. **Solid Power — Electrolyte R&D Intern** — Uniquely low friction for candidates near [your institution in the Boulder/Louisville CO area]. Even if the pay is low, the materials characterization experience is real and the solid-state battery field is important. Apply both roles simultaneously.
 
 **Apply this month:**
-4. **Carpenter Technology — R&D Materials Characterization Intern** — Production-scale specialty alloys R&D, real Gleeble/SEM/XRD floor experience, housing allowance, US-only requirement satisfied by default for US citizens.
-5. **ATI — Metallurgical R&D Internship** — Thermomechanical testing on aerospace alloys, Gleeble work, direct analog to processing window research. Strong fit if willing to go to Natrona Heights, PA.
-6. **Microsoft Research — AI for Chemistry and Materials Science Intern** — High compensation, strong computational fit, but de-prioritize if physical manufacturing experience is the primary summer goal.
+4. **Sila Nanotechnologies — Materials Development Engineer Intern** — Well-funded silicon anode battery materials leader, strong pay ($25–39/hr), multiple intern tracks. Interface failure expertise maps directly to silicon anode challenges (SEI, volume expansion). Requires Bay Area relocation.
+5. **Carpenter Technology — R&D Materials Characterization Intern** — Production-scale specialty alloys R&D, real Gleeble/SEM/XRD floor experience, housing allowance, US-only requirement satisfied by default for US citizens.
+6. **ATI — Metallurgical R&D Internship** — Thermomechanical testing on aerospace alloys, Gleeble work, direct analog to processing window research. Strong fit if willing to go to Natrona Heights, PA.
+7. **Microsoft Research — AI for Chemistry and Materials Science Intern** — High compensation, strong computational fit, but de-prioritize if physical manufacturing experience is the primary summer goal.
 
 **Lower priority / situational:**
-7. **Haynes International — R&D Intern** — Good specialty metals exposure, but Kokomo relocation is a hard sell. Apply as backup if other roles don't pan out.
+8. **Haynes International — R&D Intern** — Good specialty metals exposure, but Kokomo relocation is a hard sell. Apply as backup if other roles don't pan out.
+
+**Monitor (no current intern postings):**
+9. **Foundation Alloy** — MIT-spinout doing paradigm-shifting solid-state alloy manufacturing. No open roles currently. Register for notifications at their Rippling ATS portal. Check quarterly.
+10. **SeAH Superalloy Technologies** — $110M greenfield superalloy plant in Temple, TX ramping to production in 2026. No formal intern program yet. Monitor LinkedIn monthly — opportunities may emerge as facility stabilizes.
 
 ---
 
-*Sources consulted: Applied Materials careers portal (jobs.appliedmaterials.com), Solid Power Greenhouse board (greenhouse.io/solidpower), QuesTek Innovations LinkedIn and Paylocity board, Carpenter Technology Workday (cartech.wd5.myworkdayjobs.com) and Prosple, ATI materials careers portal (careers.atimaterials.com), Haynes International job openings page (haynesintl.com/en/job-openings), Microsoft Research jobs portal, Google Careers, QuantumScape careers portal (position filled), Aionics careers page (no open roles), Orbital Materials Ashby board (no US internships), Factorial Energy Greenhouse (no materials internships), Form Energy careers (no internships), USA Rare Earth Rippling board (no internships), Kebotix Greenhouse (no visible roles), Acceleration Consortium SURP (eligibility mismatch), ZipRecruiter, LinkedIn, Glassdoor, Prosple, Breakthrough Energy Ventures job board. Research date: 2026-02-25.*
+*Sources consulted: Applied Materials careers portal (jobs.appliedmaterials.com), Solid Power Greenhouse board (greenhouse.io/solidpower), QuesTek Innovations LinkedIn and Paylocity board, Carpenter Technology Workday (cartech.wd5.myworkdayjobs.com) and Prosple, ATI materials careers portal (careers.atimaterials.com), Haynes International job openings page (haynesintl.com/en/job-openings), Microsoft Research jobs portal, Google Careers, Sila Nanotechnologies careers portal (silanano.com/careers) and Climate Draft job board, Foundation Alloy Rippling ATS (foundation-alloy.rippling-ats.com) and MIT News, SeAH Superalloy Technologies careers (seahsuperalloys.com/careers) and Temple EDC, QuantumScape careers portal (position filled), Aionics careers page (no open roles), Orbital Materials Ashby board (no US internships), Factorial Energy Greenhouse (no materials internships), Form Energy careers (no internships), USA Rare Earth Rippling board (no internships), Kebotix Greenhouse (no visible roles), Acceleration Consortium SURP (eligibility mismatch), ZipRecruiter, LinkedIn, Glassdoor, Prosple, Breakthrough Energy Ventures job board, Crunchbase, PitchBook. Research date: 2026-02-25, updated 2026-03-03.*

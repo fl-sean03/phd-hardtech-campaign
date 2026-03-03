@@ -423,6 +423,38 @@ Background Check Consent:
 
 ---
 
+## 12. Outreach Style
+
+*This section informs the `founder_outreach.md` prompt and `DM_TEMPLATE.md` customization.
+Fill this in if you plan to do founder-direct outreach (DMs, cold emails, informal arrangements).*
+
+```
+X/Twitter Handle:
+  [e.g., "@yourusername" — or "none / not active"]
+
+DM Comfort Level:
+  [e.g., "Comfortable DMing founders" or "Prefer email over DM" or "Will DM if coached"]
+
+Informal Arrangement Comfort:
+  [e.g., "Open to unpaid or reduced-pay arrangements for the right experience" or
+   "Need at minimum $X/hr" or "Flexible on structure — experience matters more than title"]
+
+Founder Engagement History:
+  [Have you ever DMed a founder or CEO? Have you engaged with hard tech founders on X?
+   This helps calibrate the outreach tone.
+   e.g., "I've replied to a few defense tech founders on X but never DMed anyone directly"
+   or "No experience with founder outreach — first time"]
+
+Preferred Outreach Tone:
+  [e.g., "Direct and technical — I want to sound like a peer, not a job-seeker" or
+   "Professional but warm" or "Match the founder's tone"]
+```
+
+*Agents use this section to calibrate DM length, formality, and whether to suggest email
+vs. DM vs. LinkedIn as the primary channel.*
+
+---
+
 *End of Positioning Document*
 
 *Before running any agent prompts, verify:*
@@ -431,3 +463,4 @@ Background Check Consent:
 - *[ ] Gap Acknowledgment (Section 8) is filled in*
 - *[ ] Standard Screening Answers (Section 11) are accurate and current*
 - *[ ] Resume filenames (Section 10) match actual files on disk*
+- *[ ] Outreach Style (Section 12) is filled in if doing founder-direct outreach*

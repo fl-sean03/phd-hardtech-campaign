@@ -1,8 +1,8 @@
 # Methodology
 
-The full process for running a systematic, AI-assisted internship campaign as a STEM PhD student. Read this before touching anything else in the repo.
+The full process for running a systematic, AI-assisted hard tech opportunity campaign as a STEM PhD student. Read this before touching anything else in the repo.
 
-The process has five phases. They are sequential. Skipping Phase 1 and jumping straight to applications is the single most common failure mode — and it produces generic letters that hiring managers discard in 10 seconds.
+The process has six phases. They are sequential. Skipping Phase 1 and jumping straight to applications is the single most common failure mode — and it produces generic letters that hiring managers discard in 10 seconds.
 
 ---
 
@@ -48,11 +48,15 @@ For materials science / computational science PhD students:
 |--------|-----------------|------------------------|
 | National labs (DOE) | Largest concentration of materials PhD work in the US | MD/DFT modeling, property prediction, experiment-simulation integration |
 | Defense primes | Structural materials, thermal protection, propulsion | Processing-property relationships, failure modeling, qualification support |
+| Defense manufacturing startups | Hypersonics, munitions, autonomous weapons at startup speed | Manufacturing ramp materials, DFM/A, clearance-gated roles |
 | FFRDCs | Policy-adjacent technical work | Analysis, characterization, materials assessment |
-| Nuclear companies | Advanced reactor materials, fuel performance | High-temperature materials, radiation effects, qualification |
+| Nuclear fission & fusion | Advanced reactor materials, fuel performance | High-temperature materials, radiation effects, qualification |
+| eVTOL & advanced air mobility | Composite airframes, battery integration | Composites manufacturing, certification-driven materials qualification |
+| Battery manufacturing | Cell chemistry, electrode processing, solid-state electrolytes | Electrochemical interface physics, ceramic processing, characterization |
+| Critical minerals & rare earth | Rare earth separation, magnet manufacturing, recycling | Hydrometallurgical processing, materials characterization, DOE ecosystem |
 | Composites/aerostructures | Structural materials, manufacturing process development | Process modeling, cure kinetics, interlaminar mechanics |
 | Semiconductor fabs | Thin films, dielectrics, metals | Deposition process development, materials characterization |
-| Energy materials | Batteries, fuel cells, hydrogen | Electrochemical modeling, interface physics, degradation mechanisms |
+| Energy materials & industrial decarb | Thermal storage, green steel, cement | Electrochemistry, thermal cycling, materials degradation |
 | Hard tech startups | SBIR-funded, often AFRL-adjacent | Flexible — PhD skills applied directly to core technical problem |
 
 ### Researching each sector
@@ -66,7 +70,35 @@ What you need to know for each company:
 - What does their technical staff look like (PhD-heavy vs. BS-heavy)?
 - What is the clearance requirement landscape?
 
-The `research/` files in this repo cover this for 12 sectors and 130+ companies. Use them as starting points. They are current as of early 2026 but company-specific program details change — verify before citing in a letter.
+The `research/` files in this repo cover this for 15 sectors and 190+ companies. Use them as starting points. They are current as of early 2026 but company-specific program details change — verify before citing in a letter.
+
+---
+
+## Phase 2b: Direct Engagement Mapping
+
+**Not every opportunity comes through a job board.** After identifying your target sectors, map the direct engagement landscape. This is where the highest-leverage, lowest-competition opportunities live.
+
+### What to map for each sector
+
+**Founder accessibility:** Which founders or CTOs are active on X/Twitter? Who responds to DMs? Who has a public email? At companies under 200 people, the founder is often the hiring decision-maker. A good DM to the right founder can skip the ATS entirely.
+
+**Factory timeline research:** Companies actively scaling manufacturing have urgent, unposted needs. A company breaking ground on a new factory in Q2 2026 needs materials engineers now, even if they haven't posted the role yet. Track: factory announcements, groundbreaking dates, production ramp timelines, Series B/C funding rounds (which fund manufacturing scale-up).
+
+**Informal arrangements:** Many of the best summer experiences at hard tech startups are not formal internships. They are informal arrangements — "come work with us for the summer, we'll figure out the title." The pitch for these is different from an ATS application. See `templates/DM_TEMPLATE.md` for the templates.
+
+### Engagement type classification
+
+For every company in your target list, classify the best engagement approach:
+
+| Engagement Type | When to Use | Template |
+|----------------|-------------|----------|
+| **ATS** | Company has a posted role matching your profile | `templates/APPLICATION_TEMPLATE.md` |
+| **Cold email** | No posting, company > 50 people, you have a specific technical hook | `templates/OUTREACH_TEMPLATE.md` |
+| **DM** | Founder is active on X/Twitter, company < 200 people | `templates/DM_TEMPLATE.md` |
+| **Founder-direct** | Company < 50 people, founder makes all hiring decisions | `templates/DM_TEMPLATE.md` (Template 3 or 4) |
+| **Informal** | No formal program exists, you're proposing a non-standard arrangement | `templates/DM_TEMPLATE.md` (Template 4) |
+
+The `Engagement` column in `MASTER_LIST.md` tracks which type applies to each company.
 
 ---
 
@@ -78,10 +110,11 @@ Score every opportunity before investing application effort. The scoring is not 
 
 | Factor | Weight | What to look for |
 |--------|--------|-----------------|
-| Technical stack overlap | 0-30 | Do they use your specific methods? Not adjacent methods — your methods. |
+| Technical stack overlap | 0-25 | Do they use your specific methods? Not adjacent methods — your methods. |
 | Role-type match | 0-20 | Is this a modeling/simulation role, not just "materials intern"? |
-| Differentiator relevance | 0-20 | Do your hard differentiators (clearance, prior lab experience, specific stack) matter here? |
-| Program quality | 0-15 | Structured mentorship, conference attendance, final presentation, return offer track? |
+| Differentiator relevance | 0-15 | Do your hard differentiators (clearance, prior lab experience, specific stack) matter here? |
+| Engagement accessibility | 0-15 | Can you reach the decision-maker? Is the founder on X? Is there a warm path? |
+| Program quality | 0-10 | Structured mentorship, conference attendance, final presentation, return offer track? |
 | Strategic value | 0-15 | Publication opportunity, clearance sponsorship, future hire pathway, network value? |
 
 ### Hard filters (disqualifying, check first)
@@ -100,7 +133,7 @@ Check these before scoring. A perfect technical fit at a company that requires T
 - **60-69**: Apply if you have bandwidth. Minimal tailoring beyond basic substitution.
 - **Below 60**: Cold outreach only if you have a specific connection to the program or person. Don't apply through ATS.
 
-The `MASTER_LIST.md` has scores pre-calculated for all 74 tracked opportunities. Review them and adjust downward if your background differs significantly from the materials science / computational profile this campaign was built for.
+The `MASTER_LIST.md` has scores pre-calculated for all tracked opportunities. Each entry also includes an `Engagement` type (ATS, cold-email, DM, founder-direct, or informal) to help you choose the right approach. Review scores and adjust downward if your background differs significantly from the materials science / computational profile this campaign was built for.
 
 ---
 

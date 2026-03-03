@@ -1,6 +1,6 @@
 # Energy Materials — ARPA-E / DOE Portfolio & TIM Company Research
 
-*Research current as of February 2026. Verify URLs and deadlines before applying.*
+*Research current as of March 2026. Verify URLs and deadlines before applying.*
 
 *Focus: ARPA-E-funded companies, DOE technology transition portfolio, thermal interface materials manufacturers, battery materials startups, and advanced energy materials companies for summer 2026 internships.*
 
@@ -67,15 +67,17 @@ The following entries are flagged **[TIM DIRECT]** — these are companies whose
 
 - **Score estimate:** 80/100
 - **Sector:** Thermal Energy Storage / Thermophotovoltaics
-- **Location:** Sunnyvale, CA (onsite, 40 hrs/week)
-- **Timing:** 10 weeks, starting mid-February — this role may already be filled or near closing for a February start. A separate summer 2026 intern cycle may open. Check antora.com/jobs immediately and apply.
+- **Location:** San Jose, CA (manufacturing facility) and Sunnyvale, CA (TPV line and HQ) — onsite, 40 hrs/week
+- **Timing:** 10 weeks, starting mid-February — this role may already be filled or near closing for a February start. A separate summer 2026 intern cycle may open. Check antora.com/jobs immediately and apply. Antora is actively hiring across multiple functions (Senior Materials Process Engineer, Manufacturing Engineer, Senior Plant Engineer, Field Engineer) suggesting active growth.
 - **Apply URL:** https://www.antora.com/job/heat-to-power-reliability-intern-thermophotovoltaic-high-temperature-systems
 - **Pay:** $35–$45/hr (PhD-level rate)
 - **ARPA-E/DOE connection:** **Extremely strong and confirmed.** Antora Energy was funded through ARPA-E's DAYS (Duration Addition to electricitY Storage) program and received a $14.5M ARPA-E SCALEUP award (2024) — the largest category of ARPA-E award, reserved for technologies closest to commercial deployment. Also received additional California Energy Commission + ARPA-E funding for TPV production scale-up.
 
+**Manufacturing scale-up status (updated March 2026):** Antora's 50,000 sq ft manufacturing facility in San Jose is operational and producing modular thermal batteries — initial units rolled off the production line in 2024, with the facility equipped to produce gigawatt-hours of thermal batteries per year. Separately, Antora has built the world's first dedicated thermophotovoltaic (TPV) cell manufacturing line at its Sunnyvale headquarters, with an initial capacity of 2 MW of TPV cells annually and demonstrated efficiency above 40%. The company raised a $150M Series B led by Decarbonization Partners in early 2024. Active hiring for Senior Materials Process Engineer (high-temperature mechanical processes), Manufacturing Engineers (shop floor execution), and other production roles confirms the company is in genuine manufacturing scale-up, not R&D mode.
+
 **Fit analysis:** Antora stores energy as heat in carbon blocks and converts it back to electricity via thermophotovoltaic cells. The Reliability Intern role specifically works on: accelerated lifetime testing of TPV components, failure analysis under heat/light/current stress, root cause analysis, and materials characterization. This involves characterizing interface failure mechanisms under thermal cycling — the same framing as a PhD thesis on TIM reliability. Required qualifications explicitly include materials science background and materials characterization techniques experience. Python proficiency is listed as a desired skill.
 
-**Potential gaps:** The February start date is the main problem — this specific posting may be for a spring intern, not summer. Contact Antora's recruiting directly and ask about a summer 2026 variant. Sunnyvale CA requires relocation. Compensation at $35–$45/hr is excellent for a summer internship.
+**Potential gaps:** The February start date is the main problem — this specific posting may be for a spring intern, not summer. Contact Antora's recruiting directly and ask about a summer 2026 variant. Sunnyvale/San Jose CA requires relocation. Compensation at $35–$45/hr is excellent for a summer internship.
 
 **DOE connection note:** ARPA-E SCALEUP companies have typically gone through DOE commercialization programs including ARPA-E DAYS. In cover letters, mention familiarity with the ARPA-E DAYS/SCALEUP framework and how DOE's commercialization pipeline connects to Antora's trajectory. Candidates with [your prior DOE national lab or I-Corps experience] can reference their DOE ecosystem familiarity as a direct cultural match signal. Most applicants will not know or mention this.
 
@@ -210,18 +212,96 @@ The following entries are flagged **[TIM DIRECT]** — these are companies whose
 
 ---
 
+## 13. Electra — Electrochemistry / Process Intern (Summer 2026) **[ARPA-E DIRECT] [Green Steel / Electrochemistry]**
+
+- **Score estimate:** 74/100
+- **Sector:** Green Iron / Electrowinning / Industrial Decarbonization
+- **Location:** Boulder, CO (onsite — no relocation needed for Boulder-area candidates)
+- **Timing:** Electra ran a formal summer intern program in 2025 with multiple tracks (Electrochemistry Intern, Hydrometallurgy Intern, Mechanical Engineer Intern, Systems Engineer Intern). Summer 2026 postings not yet confirmed as of research date — check electra.earth/careers immediately and apply when posted.
+- **Apply URL:** https://www.electra.earth/careers/
+- **Pay:** Not publicly listed for 2026; comparable cleantech internships pay $25–$35/hr for graduate students
+- **ARPA-E/DOE connection:** **Strong and confirmed.** Electra received ARPA-E funding for its "Low-Temperature Green Ironmaking from Unconventional Feedstocks" project (FERRIC program). The company also received an $85M STRATFI (Strategic and Transformational Research for Iron and steel) award. Additionally received an $8M Colorado state clean manufacturing tax credit (2025) for its demonstration plant in Jefferson County.
+
+**Fit analysis:** Electra dissolves iron ores into an aqueous acidic solution and electrochemically deposits pure iron onto metal plates at near-ambient temperatures — replacing blast furnaces entirely. The core technical challenge is electrochemical process optimization: how do electrode materials, electrolyte chemistry, current density, and impurity management determine iron purity, deposition rate, and energy efficiency? A PhD in materials science with computational and electrochemical characterization experience is directly relevant. The company is building a 130,000 sq ft demonstration facility south of Boulder with equipment installation underway and production targeted for mid-2026 — active scale-up context. Electra's $186M Series B (April 2025) and Nucor/Meta offtake agreements signal strong commercial traction.
+
+**Boulder advantage:** This is one of the only companies on this list that does not require relocation for a Boulder-area candidate. This dramatically reduces the friction of a summer placement. The 2025 intern program was structured and formal (multiple tracks, housing assistance offered), suggesting a 2026 program is likely.
+
+**Application approach:** Monitor electra.earth/careers for summer 2026 postings. If not posted by mid-March, cold email recruiting directly referencing the 2025 Electrochemistry Intern track and asking about 2026 availability. Frame as: "PhD materials scientist with electrochemical characterization and computational background — interested in the electrowinning process optimization challenge at demonstration scale."
+
+**Potential gaps:** Summer 2026 intern postings not yet confirmed. The electrochemistry focus is adjacent to but not identical to TIM research — the pitch must emphasize electrochemical materials characterization and process-structure-property translation rather than thermal interface specifics. Housing is self-arranged.
+
+---
+
+## 14. Sublime Systems — Electrochemistry R&D Co-op **[DOE FUNDED] [Electrochemical Materials Processing]**
+
+- **Score estimate:** 70/100
+- **Sector:** Low-Carbon Cement / Electrochemical Manufacturing
+- **Location:** Somerville, MA (onsite, 40 hrs/week)
+- **Timing:** Sublime has posted Electrochemistry R&D Co-op and Product R&D Co-op roles on a rolling basis. Check jobs.lever.co/SublimeSystems for current openings. Some co-op postings from late 2025 may have closed; new postings likely for summer 2026.
+- **Apply URL:** https://jobs.lever.co/SublimeSystems
+- **Pay:** Not publicly listed; comparable Boston-area cleantech co-ops pay $22–$30/hr for graduate students
+- **ARPA-E/DOE connection:** **Strong but disrupted.** Sublime was selected for an $87M DOE Office of Clean Energy Demonstrations (OCED) award to build a commercial demonstration plant in Holyoke, MA. However, the DOE rescinded this funding in mid-2025, forcing Sublime to pause Holyoke plant development and cut 10% of its workforce. The company is working through "alternative scale-up plans." Sublime also secured $75M in combined investments from CRH and Holcim (global cement majors) which provides a private capital backstop.
+
+**Fit analysis:** Sublime replaces 200-year-old fossil-fuel-fired cement kilns with a near-ambient-temperature electrochemical process. The Electrochemistry R&D Co-op involves hands-on lab-scale electrochemical testing, data analysis, and literature reviews — working directly on the core process chemistry. Materials characterization techniques (SEM, ICP, electrochemical impedance spectroscopy, voltammetry) are listed as desired skills. A PhD candidate with computational materials science and characterization experience is a strong fit for the R&D team. The company's challenge — translating an electrochemical lab process to manufacturing scale — is exactly the lab-to-factory translation problem that motivates a manufacturing-focused summer placement.
+
+**Stability note:** The loss of the $87M DOE OCED award is a real concern. However, Sublime retains $75M from CRH and Holcim, has existing investor backing (The Engine, Lowercarbon Capital, Energy Impact Partners), and the core technology remains validated. The company is actively hiring co-ops and full-time roles, suggesting operations continue. Treat this as a moderate risk factor, not a dealbreaker — but confirm active hiring status before investing significant application effort.
+
+**Potential gaps:** Somerville MA requires relocation. The DOE funding loss introduces uncertainty about long-term trajectory (though the company is not in financial distress). Cement electrochemistry is further from TIM research than some other entries — the pitch must lean on electrochemical characterization and process optimization transferable skills.
+
+---
+
+## 15. Boston Metal — Molten Oxide Electrolysis **[DOE FUNDED] [Green Steel] — CAUTION: ACTIVE LAYOFFS**
+
+- **Score estimate:** 67/100 (downgraded from ~68 due to instability)
+- **Sector:** Green Steel / Molten Oxide Electrolysis
+- **Location:** Woburn, MA (HQ and pilot facilities — **closing as of March 2026**)
+- **Timing:** **Do not apply now.** Boston Metal announced layoffs of 71 workers and closure of all Woburn facilities effective March 14, 2026. Monitor for recovery only.
+- **Apply URL:** https://www.bostonmetal.com/ (careers page — likely inactive)
+- **Pay:** N/A — not hiring
+- **ARPA-E/DOE connection:** Boston Metal's molten oxide electrolysis (MOE) technology was developed at MIT. The company has raised over $420M from investors including ArcelorMittal ($36M), Microsoft, Fidelity, and IFC. DOE-adjacent through MIT heritage and industrial decarbonization mission.
+
+**Fit analysis (if stable):** MOE is a genuinely transformative steelmaking technology — using electricity to directly reduce iron oxide to liquid steel in a single step, eliminating blast furnaces and coke entirely. The high-temperature electrochemistry (1,600°C molten oxide baths) involves extreme materials challenges: electrode degradation, refractory lining failure, electrolyte chemistry optimization. A materials PhD with high-temperature characterization and computational modeling background would be directly relevant. Boston Metal also operates a commercial-scale facility in Brazil producing iron alloys.
+
+**CRITICAL STABILITY WARNING:** On January 30, 2026, an industrial accident at the Brazil facility caused a "critical equipment failure" that halted operations and caused the company to miss a key operational milestone required to close a pending financing deal. This cut off access to committed capital needed to sustain Woburn operations. The company is laying off 71 workers across its Woburn pilot plant, R&D building, main office, and warehouse, with layoffs commencing March 14, 2026. The company had over 300 employees as of early 2026. This is not a minor restructuring — this is a potential existential crisis for the US operations. Industry observers describe the situation as a "bewildering bankruptcy" scenario, though no formal bankruptcy filing has been confirmed as of March 2026.
+
+**Action:** **Do not apply. Monitor quarterly.** If Boston Metal secures new financing and reopens Woburn operations, revisit. The underlying MOE technology is sound, but the company's near-term operational stability is severely compromised. This entry is included for awareness and monitoring purposes only.
+
+---
+
+## 16. Rondo Energy — Industrial Heat Storage **[Industrial Decarbonization]**
+
+- **Score estimate:** 68/100
+- **Sector:** Industrial Thermal Energy Storage / Thermal Batteries
+- **Location:** Oakland, CA (HQ); global deployment sites
+- **Timing:** No confirmed summer 2026 intern posting found. Rondo is actively hiring full-time roles. Recommend cold outreach for intern placement.
+- **Apply URL:** https://www.rondo.com/careers and https://job-boards.greenhouse.io/rondoenergy
+- **Pay:** Not listed; comparable energy storage internships pay $25–$35/hr for graduate students
+- **ARPA-E/DOE connection:** Not ARPA-E-funded directly. Rondo's technology is commercially deployed without ARPA-E backing — the company has moved past the DOE demonstration phase into commercial operations with paying customers across multiple industries and continents.
+
+**Fit analysis:** Rondo's Heat Battery stores energy as heat in solid media at temperatures over 1,000°C, delivering continuous industrial heat and steam with round-trip efficiency above 97%. The core materials challenges involve high-temperature insulation systems, thermal cycling durability of storage media, and heat exchanger interface reliability — all problems where materials degradation under thermal cycling is the central failure mode. A PhD studying interface failure under thermal cycling has directly transferable domain knowledge. Rondo has achieved significant commercial milestones: the world's largest industrial heat battery (100 MWh) began commercial operation in California in October 2025, a 33 MWh system is operational at a cement plant in Thailand, and a 100 MWh installation at Covestro's Brunsbüttel site in Germany is under construction for 2026 commissioning. The company has announced 11 commercial developments across 5 industries with over $160M in funding.
+
+**Application approach:** No formal intern program identified. Visit rondo.com/careers and greenhouse.io/rondoenergy for current openings. If no intern posting, cold email recruiting referencing the thermal cycling materials challenge: "PhD in materials science studying interface failure under thermal cycling — interested in how high-temperature storage media and insulation systems degrade over thousands of charge-discharge cycles." Rondo's Oakland HQ is the most likely placement for an R&D-adjacent summer role.
+
+**Potential gaps:** No formal intern program. Oakland CA requires relocation. Rondo is primarily a systems integration and deployment company rather than a materials R&D company — the manufacturing floor exposure would be focused on system assembly and commissioning rather than materials synthesis. The thermal cycling connection is genuine but the day-to-day work may be more mechanical/thermal engineering than materials science.
+
+---
+
 ## Summary Table
 
 | Company | Role | Sector | Location | Score | TIM/ARPA-E Flag | Status |
 |---------|------|--------|----------|-------|-----------------|--------|
 | Indium Corporation | 2026 DIY Internship | TIM / Semiconductor Materials | Clinton, NY | 82 | **TIM DIRECT** | Active — apply immediately |
-| Antora Energy | Heat to Power Reliability Intern | Thermal Energy Storage / TPV | Sunnyvale, CA | 80 | **ARPA-E DIRECT (SCALEUP)** | Active — timing uncertain for summer |
+| Antora Energy | Heat to Power Reliability Intern | Thermal Energy Storage / TPV | San Jose/Sunnyvale, CA | 80 | **ARPA-E DIRECT (SCALEUP)** | Active — 50K sq ft factory operational, TPV line running |
 | Henkel Rocky Hill | Adhesives Innovation Lab Intern | TIM / Industrial Adhesives | Rocky Hill, CT | 78 | **TIM DIRECT** | Active — apply before March |
+| Electra | Electrochemistry / Process Intern | Green Iron / Electrowinning | Boulder, CO | 74 | **ARPA-E DIRECT** + STRATFI | No 2026 posting yet; monitor careers page |
 | Parker Hannifin | Thermal Management Systems Intern | Aerospace Thermal Management | Mentor, OH | 72 | TIM Adjacent | Active — apply now |
-| Ampcera | Cold Outreach — Materials Engineer | Solid Electrolyte Ceramics | Tucson, AZ | 70 | — | No intern posting; cold email |
-| 6K Inc | Cold Outreach — Materials / Process | Plasma Materials Processing | North Andover, MA | 73 | DOE (battery supply chain) | No intern posting; cold email |
 | ION Storage Systems | Cold Outreach — Process Engineer | Solid-State Battery Mfg | Beltsville, MD | 74 | **ARPA-E DIRECT (SCALEUP)** | No intern posting; cold email |
+| 6K Inc | Cold Outreach — Materials / Process | Plasma Materials Processing | North Andover, MA | 73 | DOE (battery supply chain) | No intern posting; cold email |
+| Sublime Systems | Electrochemistry R&D Co-op | Low-Carbon Cement | Somerville, MA | 70 | DOE (OCED — rescinded) | Co-op postings rolling; check Lever page |
+| Ampcera | Cold Outreach — Materials Engineer | Solid Electrolyte Ceramics | Tucson, AZ | 70 | — | No intern posting; cold email |
 | Noon Energy | Cold Outreach — Catalyst Scientist | Carbon-Oxygen Battery | Mountain View, CA | 68 | **ARPA-E DIRECT** | Hiring FT; intern via cold email |
+| Rondo Energy | Cold Outreach — Materials / Thermal | Industrial Heat Storage | Oakland, CA | 68 | — | No intern posting; cold email |
+| Boston Metal | **DO NOT APPLY** | Green Steel / MOE | Woburn, MA | 67 | DOE-adjacent | **Laying off 71, closing Woburn Mar 2026** |
 | Ascend Elements | Cold Outreach — Process Engineer | Battery Recycling / Cathode Mfg | Westborough, MA / Covington, KY | 65 | DOE Critical Materials | No intern posting; monitor |
 | EnerVenue | Monitor Only | Nickel-Hydrogen Battery | Fremont, CA | 45 | — | Manufacturing disruption; do not apply |
 | Li-Cycle | Do Not Apply | Battery Recycling | — | — | — | Bankrupt |
@@ -233,19 +313,29 @@ The following entries are flagged **[TIM DIRECT]** — these are companies whose
 
 **Apply immediately (confirmed open postings):**
 1. **Indium Corporation** — 2026 DIY Internship. The essay requirement is an asset, not a burden — it lets a TIM-focused PhD pitch their thesis directly. Apply at indium.com/corporate/careers/internship-program/ with an essay specifically about TIM reliability and interface failure. Few applicants will have equivalent background.
-2. **Antora Energy** — Heat to Power Reliability Intern. Confirm whether the mid-February start has passed and whether a summer cohort is open. If not summer, cold email to ask about a June start. The ARPA-E SCALEUP funding and DOE ecosystem familiarity from [your prior national lab or DOE program experience] make this a strong cultural fit signal. Apply at antora.com/jobs.
+2. **Antora Energy** — Heat to Power Reliability Intern. Confirm whether the mid-February start has passed and whether a summer cohort is open. If not summer, cold email to ask about a June start. The ARPA-E SCALEUP funding and DOE ecosystem familiarity from [your prior national lab or DOE program experience] make this a strong cultural fit signal. Note: Antora's 50,000 sq ft San Jose factory is operational and producing thermal batteries; 2MW TPV cell manufacturing line is running in Sunnyvale. The company is in active scale-up with $150M Series B. Apply at antora.com/jobs.
 3. **Henkel Adhesives Innovation Lab Intern** (Rocky Hill, CT). The Loctite/Bergquist TIM center is the most direct industry TIM R&D environment accessible through a formal intern program. Apply before early March at the Rocky Hill posting.
 4. **Parker Hannifin** — Thermal Management Systems + Materials tracks. Confirmed active, large company with structured program. Apply at parkercareers.ttcportals.com — include both Thermal Management Systems and Materials tracks in resume header.
 
+**High priority — monitor and apply when posted:**
+5. **Electra** (Boulder, CO) — **No relocation needed.** Electra ran a structured summer intern program in 2025 with Electrochemistry, Hydrometallurgy, Mechanical Engineer, and Systems Engineer tracks. Summer 2026 postings not yet live. Check electra.earth/careers weekly. ARPA-E funded, $186M Series B, demo plant under construction in Jefferson County targeting mid-2026 production. The Boulder location and formal intern program structure make this a top-priority target. Cold email if not posted by mid-March.
+
 **Cold outreach (no confirmed intern posting, but high fit):**
-5. **ION Storage Systems** — ARPA-E SCALEUP-funded solid-state battery manufacturing in active ramp. Email HR directly, pitch a summer role on their ceramic electrolyte process engineering team.
-6. **6K Inc** — Plasma materials processing, defense-adjacent, North Andover MA. Cold outreach via careers page or LinkedIn recruiter. Pitch the processing-structure translation problem.
-7. **Ampcera** — Ceramic solid electrolyte scale-up in Tucson AZ. Cold email careers@ampcera.com. Pitch grain boundary / interface failure framing directly.
-8. **Noon Energy** — Cold email to Chris Graves (co-founder/CEO) or recruit via LinkedIn. Small team, active demo success, ARPA-E funded. Long shot for a structured intern slot but worth a note if the other energy storage positions are not panning out.
+6. **ION Storage Systems** — ARPA-E SCALEUP-funded solid-state battery manufacturing in active ramp. Email HR directly, pitch a summer role on their ceramic electrolyte process engineering team.
+7. **Sublime Systems** (Somerville, MA) — Electrochemistry R&D Co-op. Check jobs.lever.co/SublimeSystems for current postings. The company lost its $87M DOE OCED award in 2025 but retains $75M from CRH/Holcim and is still hiring. The electrochemical cement process is a novel materials processing challenge. Confirm active hiring before investing major application effort.
+8. **6K Inc** — Plasma materials processing, defense-adjacent, North Andover MA. Cold outreach via careers page or LinkedIn recruiter. Pitch the processing-structure translation problem.
+9. **Ampcera** — Ceramic solid electrolyte scale-up in Tucson AZ. Cold email careers@ampcera.com. Pitch grain boundary / interface failure framing directly.
+10. **Rondo Energy** (Oakland, CA) — Industrial heat storage with thermal cycling materials challenges. Five industrial-scale heat batteries deployed globally including world's largest (100 MWh, California). Cold email via rondo.com/careers. The thermal cycling connection to a TIM reliability PhD is genuine but the company is more systems-oriented than materials R&D.
+11. **Noon Energy** — Cold email to Chris Graves (co-founder/CEO) or recruit via LinkedIn. Small team, active demo success, ARPA-E funded. Long shot for a structured intern slot but worth a note if the other energy storage positions are not panning out.
 
 **Monitor (not actionable yet):**
-9. Ascend Elements — Watch for intern posting; contact recruiting if nothing posted by March.
-10. Malta Inc — Not actionable for summer 2026 given team size.
+12. Ascend Elements — Watch for intern posting; contact recruiting if nothing posted by March.
+13. Malta Inc — Not actionable for summer 2026 given team size.
+
+**Do not apply (active distress):**
+14. **Boston Metal** — Laying off 71 workers, closing all Woburn facilities effective March 14, 2026 after a critical equipment failure at Brazil plant caused the company to miss an operational milestone and lose access to committed financing. Monitor quarterly for recovery. The MOE technology is sound but the company's near-term viability is in serious question.
+15. EnerVenue — Manufacturing disruption continues.
+16. Li-Cycle — Bankrupt.
 
 ---
 
@@ -263,8 +353,13 @@ For the ARPA-E portfolio companies (Antora, ION, Noon Energy), [your prior DOE n
 
 The companies confirmed to have direct ARPA-E funding that are on this list:
 - **Antora Energy**: DAYS program (2018) + SCALEUP award ($14.5M, 2024) — carbon thermal energy storage + thermophotovoltaics
+- **Electra**: ARPA-E grant (FERRIC program) + $85M STRATFI award — low-temperature iron electrowinning from unconventional feedstocks
 - **ION Storage Systems**: SCALEUP award ($20M, 2023) — solid-state ceramic battery electrolytes
 - **Noon Energy**: ARPA-E grant — rechargeable carbon-oxygen battery (CO2 → solid carbon storage)
+
+Additional DOE-funded companies on this list (not ARPA-E direct):
+- **Sublime Systems**: $87M DOE OCED award (selected 2024, **rescinded 2025**) — electrochemical cement manufacturing
+- **Boston Metal**: DOE-adjacent via MIT heritage — molten oxide electrolysis for steelmaking (**in financial distress as of March 2026**)
 
 [Your prior DOE national lab or I-Corps experience] is the right credential to reference when engaging with ARPA-E portfolio companies. They are building exactly the kind of lab-to-market bridge that I-Corps is designed to teach. Most applicants to these companies don't have that background.
 
@@ -276,4 +371,4 @@ The DOE renamed its Office of Technology Transitions (OTT) to the Office of Tech
 
 ---
 
-*Sources: Indium Corporation press releases (indium.com), Antora Energy careers (antora.com/job/...), ARPA-E project database (arpa-e.energy.gov), Henkel North America careers (henkel-northamerica.com), Parker Hannifin external careers portal (parkercareers.ttcportals.com), ION Storage Systems news and careers (ionstoragesystems.com), Noon Energy (noon.energy), Ascend Elements careers (ascendelements.hrmdirect.com), 6K Inc careers (6kinc.com), EnerVenue news (energy-storage.news, kentucky.gov), Li-Cycle news (canarymedia.com), Malta Inc (maltainc.com, sandia.gov), Ampcera careers (ampcera.com). Researched 2026-02-25.*
+*Sources: Indium Corporation press releases (indium.com), Antora Energy careers and manufacturing announcements (antora.com), ARPA-E project database (arpa-e.energy.gov), Henkel North America careers (henkel-northamerica.com), Parker Hannifin external careers portal (parkercareers.ttcportals.com), ION Storage Systems news and careers (ionstoragesystems.com), Noon Energy (noon.energy), Ascend Elements careers (ascendelements.hrmdirect.com), 6K Inc careers (6kinc.com), EnerVenue news (energy-storage.news, kentucky.gov), Li-Cycle news (canarymedia.com), Malta Inc (maltainc.com, sandia.gov), Ampcera careers (ampcera.com), Electra careers and ARPA-E project listing (electra.earth, arpa-e.energy.gov), Sublime Systems careers and DOE OCED announcements (sublime-systems.com, jobs.lever.co/SublimeSystems, energy.gov), Boston Metal layoff notices and news (bostonmetal.com, boston.com, bostonglobe.com, wbur.org), Rondo Energy commercial deployments and careers (rondo.com, energy-storage.news). Researched 2026-02-25, updated 2026-03-03.*
